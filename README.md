@@ -8,7 +8,7 @@ Each text is split into hierarchical study units (short / medium / long tiers) w
 
 *(library.json is the source of truth — this list will track it)*
 
-- (no texts yet — being populated)
+- **The Art of War** — Sun Tzu, tr. Lionel Giles (1910) · 59 short units / 13 chapters
 
 ## Structure
 

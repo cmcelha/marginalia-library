@@ -1,5 +1,26 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-05-30",
-  "texts": []
+  "updated_at": "2026-05-29",
+  "texts": [
+    {
+      "slug": "art-of-war",
+      "title": "The Art of War",
+      "aliases": ["Sun Tzu", "Sunzi", "Sun Tzŭ", "The Art of War"],
+      "author": "Sun Tzu",
+      "translator": "Lionel Giles",
+      "translation_year": 1910,
+      "license": "public domain",
+      "source_url": "https://www.gutenberg.org/files/132/132-0.txt",
+      "source_path": "art-of-war/art-of-war.md",
+      "description": "The classic treatise on strategy, conflict, and leadership. Thirteen chapters on planning, maneuver, terrain, and the use of spies, framed as the disciplined avoidance of needless battle.",
+      "tradition": "Classical Chinese military philosophy",
+      "short_units": 59,
+      "medium_units": 13,
+      "long_units": 13,
+      "recommended_cadence": "medium",
+      "estimated_duration_days": {"short": 59, "medium": 13, "long": 13},
+      "split_status": "curated",
+      "added_date": "2026-05-29"
+    }
+  ]
 }

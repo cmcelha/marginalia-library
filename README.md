@@ -11,6 +11,8 @@ Each text is split into hierarchical study units (short / medium / long tiers) w
 - **The Art of War** — Sun Tzu, tr. Lionel Giles (1910) · 59 short units / 13 chapters
 - **Tao Te Ching** — Lao Tzu, tr. James Legge (1891) · 81 short units / 81 chapters
 - **Meditations** — Marcus Aurelius, tr. George Long (1862) · 89 short units / 12 books
+- **The Analects of Confucius** — Confucius, tr. James Legge (1893) · 74 short units / 20 books
+- **The Enchiridion** — Epictetus, tr. George Long (1877) · 52 short units / 52 chapters
 
 ## Structure
 

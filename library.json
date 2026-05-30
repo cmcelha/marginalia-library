@@ -61,6 +61,46 @@
       "estimated_duration_days": {"short": 89, "medium": 21, "long": 12},
       "split_status": "curated",
       "added_date": "2026-05-29"
+    },
+    {
+      "slug": "analects",
+      "title": "The Analects of Confucius",
+      "aliases": ["Confucius", "Analects", "Lun Yu", "The Analects"],
+      "author": "Confucius",
+      "translator": "James Legge",
+      "translation_year": 1893,
+      "license": "public domain",
+      "source_url": "https://www.gutenberg.org/cache/epub/3330/pg3330.txt",
+      "source_path": "analects/analects.md",
+      "description": "Sayings and conversations of Confucius recorded by his disciples. Twenty books on virtue, ritual, learning, and the conduct of the good ruler and the cultivated person.",
+      "tradition": "Confucian / Chinese philosophy",
+      "short_units": 74,
+      "medium_units": 12,
+      "long_units": 6,
+      "recommended_cadence": "short",
+      "estimated_duration_days": {"short": 74, "medium": 12, "long": 6},
+      "split_status": "curated",
+      "added_date": "2026-05-29"
+    },
+    {
+      "slug": "enchiridion",
+      "title": "The Enchiridion",
+      "aliases": ["Epictetus", "Handbook", "Manual", "The Handbook of Epictetus"],
+      "author": "Epictetus",
+      "translator": "George Long",
+      "translation_year": 1877,
+      "license": "public domain",
+      "source_url": "https://www.gutenberg.org/cache/epub/10661/pg10661.txt",
+      "source_path": "enchiridion/enchiridion.md",
+      "description": "A compact Stoic handbook compiled by Arrian from the teachings of Epictetus. Fifty-two short chapters on what is and isn't in our control, and the discipline of desire and judgment.",
+      "tradition": "Stoic / Hellenistic philosophy",
+      "short_units": 52,
+      "medium_units": 12,
+      "long_units": 5,
+      "recommended_cadence": "short",
+      "estimated_duration_days": {"short": 52, "medium": 12, "long": 5},
+      "split_status": "curated",
+      "added_date": "2026-05-29"
     }
   ]
 }

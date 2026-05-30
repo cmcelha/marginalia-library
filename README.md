@@ -15,6 +15,12 @@ Each text is split into hierarchical study units (short / medium / long tiers) w
 - **The Enchiridion** — Epictetus, tr. George Long (1877) · 52 short units / 52 chapters
 - **The Prince** — Niccolò Machiavelli, tr. W. K. Marriott (1908) · 69 short units / 26 chapters
 - **The Bhagavad Gita** — tr. Sir Edwin Arnold (1885) · 46 short units / 18 chapters
+- **The Nicomachean Ethics** — Aristotle, tr. D. P. Chase (1847) · 159 short units / 10 books
+- **Thus Spake Zarathustra** — Friedrich Nietzsche, tr. Thomas Common (1909) · 145 short units
+- **The Quran** — tr. J. M. Rodwell (1861) · 268 short units / 114 surahs
+- **The Torah (Five Books of Moses)** — JPS 1917 · 216 short units / 5 books
+- **Principal Upanishads** — tr. Swami Paramananda (1919) · 33 short units (Isa, Katha, Kena)
+- **The Bible (World English Bible)** — public domain (2000) · 1007 short units / 66 books
 
 ## Structure
 

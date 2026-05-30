@@ -13,6 +13,8 @@ Each text is split into hierarchical study units (short / medium / long tiers) w
 - **Meditations** — Marcus Aurelius, tr. George Long (1862) · 89 short units / 12 books
 - **The Analects of Confucius** — Confucius, tr. James Legge (1893) · 74 short units / 20 books
 - **The Enchiridion** — Epictetus, tr. George Long (1877) · 52 short units / 52 chapters
+- **The Prince** — Niccolò Machiavelli, tr. W. K. Marriott (1908) · 69 short units / 26 chapters
+- **The Bhagavad Gita** — tr. Sir Edwin Arnold (1885) · 46 short units / 18 chapters
 
 ## Structure
 

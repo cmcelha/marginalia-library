@@ -101,6 +101,46 @@
       "estimated_duration_days": {"short": 52, "medium": 12, "long": 5},
       "split_status": "curated",
       "added_date": "2026-05-29"
+    },
+    {
+      "slug": "the-prince",
+      "title": "The Prince",
+      "aliases": ["Machiavelli", "Il Principe", "The Prince"],
+      "author": "Niccolò Machiavelli",
+      "translator": "W. K. Marriott",
+      "translation_year": 1908,
+      "license": "public domain",
+      "source_url": "https://www.gutenberg.org/cache/epub/1232/pg1232.txt",
+      "source_path": "the-prince/the-prince.md",
+      "description": "A blunt Renaissance manual on acquiring and holding political power. Twenty-six chapters on principalities, arms, fortune, and the gap between how rulers ought to act and how they must.",
+      "tradition": "Renaissance political philosophy",
+      "short_units": 69,
+      "medium_units": 12,
+      "long_units": 6,
+      "recommended_cadence": "short",
+      "estimated_duration_days": {"short": 69, "medium": 12, "long": 6},
+      "split_status": "curated",
+      "added_date": "2026-05-29"
+    },
+    {
+      "slug": "bhagavad-gita",
+      "title": "The Bhagavad Gita",
+      "aliases": ["Bhagavad Gita", "Gita", "Song Celestial", "The Song of God"],
+      "author": "Vyasa (traditional)",
+      "translator": "Sir Edwin Arnold",
+      "translation_year": 1885,
+      "license": "public domain",
+      "source_url": "https://www.gutenberg.org/cache/epub/2388/pg2388.txt",
+      "source_path": "bhagavad-gita/bhagavad-gita.md",
+      "description": "A dialogue on the eve of battle between the warrior Arjuna and Krishna, rendered in verse as 'The Song Celestial.' Eighteen chapters on duty, devotion, and detached action.",
+      "tradition": "Hindu / Vedantic philosophy",
+      "short_units": 46,
+      "medium_units": 18,
+      "long_units": 3,
+      "recommended_cadence": "medium",
+      "estimated_duration_days": {"short": 46, "medium": 18, "long": 3},
+      "split_status": "curated",
+      "added_date": "2026-05-29"
     }
   ]
 }

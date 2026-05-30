@@ -28,6 +28,20 @@ Each text is split into hierarchical study units (short / medium / long tiers) w
 - **On Liberty** — John Stuart Mill (1859) · 76 short units
 - **The Rubáiyát of Omar Khayyám** — tr. Edward FitzGerald (1889) · 15 short units
 - **The Thirty-Six Stratagems** — Marginalia editors, from public-domain chengyu · 36 short units
+- **Apology, Crito, Phaedo** — Plato, tr. Benjamin Jowett (1892) · 72 short units
+- **Bushido — The Soul of Japan** — Inazo Nitobe (1900) · 77 short units
+- **The Consolation of Philosophy** — Boethius, tr. H. R. James (1897) · 56 short units / 5 books
+- **Discourses of Epictetus (Selection)** — tr. George Long (1877) · 98 short units
+- **Essays (First & Second Series)** — Ralph Waldo Emerson (1841, 1844) · 36 short units
+- **Gulistan — The Rose Garden** — Saadi, tr. James Ross (1823) · 67 short units
+- **The Works of Mencius** — tr. James Legge (1895) · 134 short units / 7 books
+- **On Duties (De Officiis)** — Cicero, tr. Walter Miller (1913) · 86 short units / 3 books
+- **Pensées** — Blaise Pascal, tr. W. F. Trotter (1910) · 181 short units
+- **Pirkei Avot (Ethics of the Fathers)** — tr. Joseph I. Gorfinkle (1913) · 26 short units
+- **Politics** — Aristotle, tr. William Ellis (1776) · 149 short units / 8 books
+- **The Republic** — Plato, tr. Benjamin Jowett (1871) · 27 short units / 10 books
+- **Walden** — Henry David Thoreau (1854) · 33 short units
+- **The Writings of Zhuangzi (Chuang Tzu)** — tr. James Legge (1891) · 179 short units
 
 ## Structure
 

@@ -9,6 +9,8 @@ Each text is split into hierarchical study units (short / medium / long tiers) w
 *(library.json is the source of truth — this list will track it)*
 
 - **The Art of War** — Sun Tzu, tr. Lionel Giles (1910) · 59 short units / 13 chapters
+- **Tao Te Ching** — Lao Tzu, tr. James Legge (1891) · 81 short units / 81 chapters
+- **Meditations** — Marcus Aurelius, tr. George Long (1862) · 89 short units / 12 books
 
 ## Structure
 

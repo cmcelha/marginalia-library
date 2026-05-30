@@ -21,6 +21,46 @@
       "estimated_duration_days": {"short": 59, "medium": 13, "long": 13},
       "split_status": "curated",
       "added_date": "2026-05-29"
+    },
+    {
+      "slug": "tao-te-ching",
+      "title": "Tao Te Ching",
+      "aliases": ["Lao Tzu", "Laozi", "Daodejing", "Tao Teh King", "The Way"],
+      "author": "Lao Tzu",
+      "translator": "James Legge",
+      "translation_year": 1891,
+      "license": "public domain",
+      "source_url": "https://www.gutenberg.org/cache/epub/216/pg216.txt",
+      "source_path": "tao-te-ching/tao-te-ching.md",
+      "description": "The foundational text of Daoism. Eighty-one brief chapters on the Way (Tao), effortless action (wu wei), and the quiet power of yielding, softness, and simplicity.",
+      "tradition": "Daoist / Chinese philosophy",
+      "short_units": 81,
+      "medium_units": 13,
+      "long_units": 6,
+      "recommended_cadence": "short",
+      "estimated_duration_days": {"short": 81, "medium": 13, "long": 6},
+      "split_status": "curated",
+      "added_date": "2026-05-29"
+    },
+    {
+      "slug": "meditations",
+      "title": "Meditations",
+      "aliases": ["Marcus Aurelius", "The Meditations", "To Himself"],
+      "author": "Marcus Aurelius",
+      "translator": "George Long",
+      "translation_year": 1862,
+      "license": "public domain",
+      "source_url": "https://www.gutenberg.org/cache/epub/15877/pg15877.txt",
+      "source_path": "meditations/meditations.md",
+      "description": "The private Stoic notebook of a Roman emperor. Twelve books of aphoristic reflections on duty, mortality, the discipline of perception, and living in accord with nature.",
+      "tradition": "Stoic / Hellenistic philosophy",
+      "short_units": 89,
+      "medium_units": 21,
+      "long_units": 12,
+      "recommended_cadence": "short",
+      "estimated_duration_days": {"short": 89, "medium": 21, "long": 12},
+      "split_status": "curated",
+      "added_date": "2026-05-29"
     }
   ]
 }

@@ -21,6 +21,13 @@ Each text is split into hierarchical study units (short / medium / long tiers) w
 - **The Torah (Five Books of Moses)** — JPS 1917 · 216 short units / 5 books
 - **Principal Upanishads** — tr. Swami Paramananda (1919) · 33 short units (Isa, Katha, Kena)
 - **The Bible (World English Bible)** — public domain (2000) · 1007 short units / 66 books
+- **Confessions** — Augustine, tr. E. B. Pusey (1838) · 152 short units / 13 books
+- **The Dhammapada** — tr. F. Max Müller (1881) · 26 short units / 26 chapters
+- **The Great Learning & Doctrine of the Mean** — tr. James Legge (1861) · 28 short units
+- **The Imitation of Christ** — Thomas à Kempis, tr. William Benham (1874) · 141 short units / 4 books
+- **On Liberty** — John Stuart Mill (1859) · 76 short units
+- **The Rubáiyát of Omar Khayyám** — tr. Edward FitzGerald (1889) · 15 short units
+- **The Thirty-Six Stratagems** — Marginalia editors, from public-domain chengyu · 36 short units
 
 ## Structure
 

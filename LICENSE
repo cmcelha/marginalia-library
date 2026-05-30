@@ -1,0 +1,10 @@
+All translations included in this repository are public domain works in the
+United States, as documented in each text's YAML frontmatter (translator and
+translation year).
+
+Splits, groupings, structural editing decisions, and the library.json index
+schema are released under CC0 1.0 (public domain dedication):
+https://creativecommons.org/publicdomain/zero/1.0/
+
+This means anyone can use the splits and structure for any purpose, with or
+without attribution.

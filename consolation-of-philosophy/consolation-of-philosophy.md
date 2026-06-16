@@ -5,6 +5,10 @@ translator: H. R. James
 translation_year: 1897
 license: public domain
 source_url: https://www.gutenberg.org/cache/epub/14328/pg14328.txt
+unit_title_pass: |
+  Snippet-suffix themes replaced with topic noun phrases in the 2026-05-30 fix pass.
+  SONG units retain their original all-caps song titles (BOETHIUS' COMPLAINT,
+  THE GOLDEN MEAN, NERO'S INFAMY, etc.) since those are tight noun-phrases as-is.
 short_units: 56
 medium_units: 5
 long_units: 5
@@ -20,7 +24,7 @@ groupings:
 
 # Chapter 1 — Book I — The Sorrows of Boethius
 
-## Unit 1 — Book I, SONG I: BOETHIUS' COMPLAINT.
+## Unit 1 — Book I, SONG I — BOETHIUS' COMPLAINT
 
 > **SONG I**
 >
@@ -70,7 +74,7 @@ groupings:
 > Surely he who so hath fallen  
 > Was not firmly founded then.  
 
-## Unit 2 — Book I, I, SONG II: While I was thus mutely pondering within myself, and recording my
+## Unit 2 — Book I, I, SONG II — On woman
 
 > **I**
 >
@@ -118,7 +122,7 @@ groupings:
 > While by the heavy load constrained,  
 > His eyes to this dull earth are chained.  
 
-## Unit 3 — Book I, II, SONG III: 'But the time,' said she, 'calls rather for healing than for
+## Unit 3 — Book I, II, SONG III — On shame
 
 > **II**
 >
@@ -138,7 +142,7 @@ groupings:
 > All suddenly the radiant god outstreams,  
 > And strikes our dazzled eyesight with his beams.  
 
-## Unit 4 — Book I, III, SONG IV: Even so the clouds of my melancholy were broken up
+## Unit 4 — Book I, III, SONG IV — On Philosophy
 
 > **III**
 >
@@ -172,7 +176,7 @@ groupings:
 > He hath forged all unaware  
 > Fetters his own neck must bear!  
 
-## Unit 5 — Book I, IV: 'Dost thou understand?' she asks
+## Unit 5 — Book I, IV — On mind and tears
 
 > **IV**
 >
@@ -196,7 +200,7 @@ groupings:
 >
 > [C] The distance from Rome to Pavia, the place of Boethius' imprisonment, is 455 Roman miles.
 
-## Unit 6 — Book I, SONG V: BOETHIUS' PRAYER.
+## Unit 6 — Book I, SONG V — BOETHIUS' PRAYER
 
 > **SONG V**
 >
@@ -253,7 +257,7 @@ groupings:
 > [D] The moon is regarded as farthest from the sun at the full, and, as  
 > she wanes, approaching gradually nearer.  
 
-## Unit 7 — Book I, V, SONG VI: When I had poured out my griefs in this long and unbroken strain of
+## Unit 7 — Book I, V, SONG VI — When I had poured out my griefs
 
 > **V**
 >
@@ -283,7 +287,7 @@ groupings:
 > So who quits the order due  
 > Shall a luckless issue rue.  
 
-## Unit 8 — Book I, VI: 'First, then, wilt thou suffer me by a few questions to make some
+## Unit 8 — Book I, VI — On state and mind
 
 > **VI**
 >
@@ -321,7 +325,7 @@ groupings:
 >
 > 'Now,' said she, 'I know another cause of thy disease, one, too, of grave moment. Thou hast ceased to know thy own nature. So, then, I have made full discovery both of the causes of thy sickness and the means of restoring thy health. It is because forgetfulness of thyself hath bewildered thy mind that thou hast bewailed thee as an exile, as one stripped of the blessings that were his; it is because thou knowest not the end of existence that thou deemest abominable and wicked men to be happy and powerful; while, because thou hast forgotten by what means the earth is governed, thou deemest that fortune's changes ebb and flow without the restraint of a guiding hand. These are serious enough to cause not sickness only, but even death; but, thanks be to the Author of our health, the light of nature hath not yet left thee utterly. In thy true judgment concerning the world's government, in that thou believest it subject, not to the random drift of chance, but to divine reason, we have the divine spark from which thy recovery may be hoped. Have, then, no fear; from these weak embers the vital heat shall once more be kindled within thee. But seeing that it is not yet time for strong remedies, and that the mind is manifestly so constituted that when it casts off true opinions it straightway puts on false, wherefrom arises a cloud of confusion that disturbs its true vision, I will now try and disperse these mists by mild and soothing application, that so the darkness of misleading passion may be scattered, and thou mayst come to discern the splendour of the true light.'
 
-## Unit 9 — Book I, SONG VII: THE PERTURBATIONS OF PASSION.
+## Unit 9 — Book I, SONG VII — THE PERTURBATIONS OF PASSION
 
 > **SONG VII**
 >
@@ -381,7 +385,7 @@ groupings:
 
 # Chapter 2 — Book II — Fortune's Wheel
 
-## Unit 10 — Book II, I: Thereafter for awhile she remained silent; and when she had…
+## Unit 10 — Book II, I — On character, fortune, and mind
 
 > **I**
 >
@@ -389,7 +393,7 @@ groupings:
 >
 > 'What is it, then, poor mortal, that hath cast thee into lamentation and mourning? Some strange, unwonted sight, methinks, have thine eyes seen. Thou deemest Fortune to have changed towards thee; thou mistakest. Such ever were her ways, ever such her nature. Rather in her very mutability hath she preserved towards thee her true constancy. Such was she when she loaded thee with caresses, when she deluded thee with the allurements of a false happiness. Thou hast found out how changeful is the face of the blind goddess. She who still veils herself from others hath fully discovered to thee her whole character. If thou likest her, take her as she is, and do not complain. If thou abhorrest her perfidy, turn from her in disdain, renounce her, for baneful are her delusions. The very thing which is now the cause of thy great grief ought to have brought thee tranquillity. Thou hast been forsaken by one of whom no one can be sure that she will not forsake him. Or dost thou indeed set value on a happiness that is certain to depart? Again I ask, Is Fortune's presence dear to thee if she cannot be trusted to stay, and though she will bring sorrow when she is gone? Why, if she cannot be kept at pleasure, and if her flight overwhelms with calamity, what is this fleeting visitant but a token of coming trouble? Truly it is not enough to look only at what lies before the eyes; wisdom gauges the issues of things, and this same mutability, with its two aspects, makes the threats of Fortune void of terror, and her caresses little to be desired. Finally, thou oughtest to bear with whatever takes place within the boundaries of Fortune's demesne, when thou hast placed thy head beneath her yoke. But if thou wishest to impose a law of staying and departing on her whom thou hast of thine own accord chosen for thy mistress, art thou not acting wrongfully, art thou not embittering by impatience a lot which thou canst not alter? Didst thou commit thy sails to the winds, thou wouldst voyage not whither thy intention was to go, but whither the winds drave thee; didst thou entrust thy seed to the fields, thou wouldst set off the fruitful years against the barren. Thou hast resigned thyself to the sway of Fortune; thou must submit to thy mistress's caprices. What! art thou verily striving to stay the swing of the revolving wheel? Oh, stupidest of mortals, if it takes to standing still, it ceases to be the wheel of Fortune.'
 
-## Unit 11 — Book II, SONG I, II, SONG II: 'Now I would fain also reason with thee a little in Fortune's…
+## Unit 11 — Book II, SONG I, II, SONG II — Fortune on fortune
 
 > **SONG I**
 >
@@ -431,7 +435,7 @@ groupings:
 > He is never rich whose fear  
 > Sees grim Want forever near.  
 
-## Unit 12 — Book II, III, SONG III: 'If Fortune should plead thus against thee, assuredly thou wouldst not
+## Unit 12 — Book II, III, SONG III — Fortune on fortune
 
 > **III**
 >
@@ -463,7 +467,7 @@ groupings:
 > One law only standeth fast:  
 > Things created may not last.  
 
-## Unit 13 — Book II, IV: Then said I: 'True are thine admonishings, thou nurse of all…
+## Unit 13 — Book II, IV — On fortune
 
 > **IV**
 >
@@ -477,7 +481,7 @@ groupings:
 >
 > 'Why, then, ye children of mortality, seek ye from without that happiness whose seat is only within us? Error and ignorance bewilder you. I will show thee, in brief, the hinge on which perfect happiness turns. Is there anything more precious to thee than thyself? Nothing, thou wilt say. If, then, thou art master of thyself, thou wilt possess that which thou wilt never be willing to lose, and which Fortune cannot take from thee. And that thou mayst see that happiness cannot possibly consist in these things which are the sport of chance, reflect that, if happiness is the highest good of a creature living in accordance with reason, and if a thing which can in any wise be reft away is not the highest good, since that which cannot be taken away is better than it, it is plain that Fortune cannot aspire to bestow happiness by reason of its instability. And, besides, a man borne along by this transitory felicity must either know or not know its unstability. If he knows not, how poor is a happiness which depends on the blindness of ignorance! If he knows it, he needs must fear to lose a happiness whose loss he believes to be possible. Wherefore, a never-ceasing fear suffers him not to be happy. Or does he count the possibility of this loss a trifling matter? Insignificant, then, must be the good whose loss can be borne so equably. And, further, I know thee to be one settled in the belief that the souls of men certainly die not with them, and convinced thereof by numerous proofs; it is clear also that the felicity which Fortune bestows is brought to an end with the death of the body: therefore, it cannot be doubted but that, if happiness is conferred in this way, the whole human race sinks into misery when death brings the close of all. But if we know that many have sought the joy of happiness not through death only, but also through pain and suffering, how can life make men happy by its presence when it makes them not wretched by its loss?'
 
-## Unit 14 — Book II, SONG IV: THE GOLDEN MEAN.
+## Unit 14 — Book II, SONG IV — THE GOLDEN MEAN
 
 > **SONG IV**
 >
@@ -505,7 +509,7 @@ groupings:
 > Live all thy days serene,  
 > And mock the heavens' spleen.  
 
-## Unit 15 — Book II, V: 'But since my reasonings begin to work a soothing effect within thy
+## Unit 15 — Book II, V — Fortune on mind
 
 > **V**
 >
@@ -517,7 +521,7 @@ groupings:
 >
 > 'Then, what seek ye by all this noisy outcry about fortune? To chase away poverty, I ween, by means of abundance. And yet ye find the result just contrary. Why, this varied array of precious furniture needs more accessories for its protection; it is a true saying that they want most who possess most, and, conversely, they want very little who measure their abundance by nature's requirements, not by the superfluity of vain display. Have ye no good of your own implanted within you, that ye seek your good in things external and separate? Is the nature of things so reversed that a creature divine by right of reason can in no other way be splendid in his own eyes save by the possession of lifeless chattels? Yet, while other things are content with their own, ye who in your intellect are God-like seek from the lowest of things adornment for a nature of supreme excellence, and perceive not how great a wrong ye do your Maker. His will was that mankind should excel all things on earth. Ye thrust down your worth beneath the lowest of things. For if that in which each thing finds its good is plainly more precious than that whose good it is, by your own estimation ye put yourselves below the vilest of things, when ye deem these vile things to be your good: nor does this fall out undeservedly. Indeed, man is so constituted that he then only excels other things when he knows himself; but he is brought lower than the beasts if he lose this self-knowledge. For that other creatures should be ignorant of themselves is natural; in man it shows as a defect. How extravagant, then, is this error of yours, in thinking that anything can be embellished by adornments not its own. It cannot be. For if such accessories add any lustre, it is the accessories that get the praise, while that which they veil and cover remains in its pristine ugliness. And again I say, That is no _good_, which injures its possessor. Is this untrue? No, quite true, thou sayest. And yet riches have often hurt those that possessed them, since the worst of men, who are all the more covetous by reason of their wickedness, think none but themselves worthy to possess all the gold and gems the world contains. So thou, who now dreadest pike and sword, mightest have trolled a carol "in the robber's face," hadst thou entered the road of life with empty pockets. Oh, wondrous blessedness of perishable wealth, whose acquisition robs thee of security!'
 
-## Unit 16 — Book II, SONG V: THE FORMER AGE.
+## Unit 16 — Book II, SONG V — THE FORMER AGE
 
 > **SONG V**
 >
@@ -547,7 +551,7 @@ groupings:
 > And--perilous treasure-trove--dug out  
 > The gems that fain would be concealed!  
 
-## Unit 17 — Book II, VI: 'What now shall I say of rank and power, whereby, because ye know not
+## Unit 17 — Book II, VI — On hope and pride
 
 > **VI**
 >
@@ -555,7 +559,7 @@ groupings:
 >
 > 'Besides, if there were any element of natural and proper good in rank and power, they would never come to the utterly bad, since opposites are not wont to be associated. Nature brooks not the union of contraries. So, seeing there is no doubt that wicked wretches are oftentimes set in high places, it is also clear that things which suffer association with the worst of men cannot be good in their own nature. Indeed, this judgment may with some reason be passed concerning all the gifts of fortune which fall so plentifully to all the most wicked. This ought also to be considered here, I think: No one doubts a man to be brave in whom he has observed a brave spirit residing. It is plain that one who is endowed with speed is swift-footed. So also music makes men musical, the healing art physicians, rhetoric public speakers. For each of these has naturally its own proper working; there is no confusion with the effects of contrary things--nay, even of itself it rejects what is incompatible. And yet wealth cannot extinguish insatiable greed, nor has power ever made him master of himself whom vicious lusts kept bound in indissoluble fetters; dignity conferred on the wicked not only fails to make them worthy, but contrarily reveals and displays their unworthiness. Why does it so happen? Because ye take pleasure in calling by false names things whose nature is quite incongruous thereto--by names which are easily proved false by the very effects of the things themselves; even so it is; these riches, that power, this dignity, are none of them rightly so called. Finally, we may draw the same conclusion concerning the whole sphere of Fortune, within which there is plainly nothing to be truly desired, nothing of intrinsic excellence; for she neither always joins herself to the good, nor does she make good men of those to whom she is united.'
 
-## Unit 18 — Book II, SONG VI: NERO'S INFAMY.
+## Unit 18 — Book II, SONG VI — NERO'S INFAMY
 
 > **SONG VI**
 >
@@ -577,7 +581,7 @@ groupings:
 > Ah, woe when to the evil heart  
 > Is joined the sword to kill!  
 
-## Unit 19 — Book II, VII: Then said I: 'Thou knowest thyself that ambition for worldly success
+## Unit 19 — Book II, VII — On virtue
 
 > **VII**
 >
@@ -589,7 +593,7 @@ groupings:
 >
 > 'Once more, how many of high renown in their own times have been lost in oblivion for want of a record! Indeed, of what avail are written records even, which, with their authors, are overtaken by the dimness of age after a somewhat longer time? But ye, when ye think on future fame, fancy it an immortality that ye are begetting for yourselves. Why, if thou scannest the infinite spaces of eternity, what room hast thou left for rejoicing in the durability of thy name? Verily, if a single moment's space be compared with ten thousand years, it has a certain relative duration, however little, since each period is definite. But this same number of years--ay, and a number many times as great--cannot even be compared with endless duration; for, indeed, finite periods may in a sort be compared one with another, but a finite and an infinite never. So it comes to pass that fame, though it extend to ever so wide a space of years, if it be compared to never-lessening eternity, seems not short-lived merely, but altogether nothing. But as for you, ye know not how to act aright, unless it be to court the popular breeze, and win the empty applause of the multitude--nay, ye abandon the superlative worth of conscience and virtue, and ask a recompense from the poor words of others. Let me tell thee how wittily one did mock the shallowness of this sort of arrogance. A certain man assailed one who had put on the name of philosopher as a cloak to pride and vain-glory, not for the practice of real virtue, and added: "Now shall I know if thou art a philosopher if thou bearest reproaches calmly and patiently." The other for awhile affected to be patient, and, having endured to be abused, cried out derisively: "_Now_, do you see that I am a philosopher?" The other, with biting sarcasm, retorted: "I should have hadst thou held thy peace." Moreover, what concern have choice spirits--for it is of such men we speak, men who seek glory by virtue--what concern, I say, have these with fame after the dissolution of the body in death's last hour? For if men die wholly--which our reasonings forbid us to believe--there is no such thing as glory at all, since he to whom the glory is said to belong is altogether non-existent. But if the mind, conscious of its own rectitude, is released from its earthly prison, and seeks heaven in free flight, doth it not despise all earthly things when it rejoices in its deliverance from earthly bonds, and enters upon the joys of heaven?'
 
-## Unit 20 — Book II, SONG VII, VIII: 'But that thou mayst not think that I wage implacable warfare against
+## Unit 20 — Book II, SONG VII, VIII — On shame and death
 
 > **SONG VII**
 >
@@ -627,7 +631,7 @@ groupings:
 >
 > 'But that thou mayst not think that I wage implacable warfare against Fortune, I own there is a time when the deceitful goddess serves men well--I mean when she reveals herself, uncovers her face, and confesses her true character. Perhaps thou dost not yet grasp my meaning. Strange is the thing I am trying to express, and for this cause I can scarce find words to make clear my thought. For truly I believe that Ill Fortune is of more use to men than Good Fortune. For Good Fortune, when she wears the guise of happiness, and most seems to caress, is always lying; Ill Fortune is always truthful, since, in changing, she shows her inconstancy. The one deceives, the other teaches; the one enchains the minds of those who enjoy her favour by the semblance of delusive good, the other delivers them by the knowledge of the frail nature of happiness. Accordingly, thou mayst see the one fickle, shifting as the breeze, and ever self-deceived; the other sober-minded, alert, and wary, by reason of the very discipline of adversity. Finally, Good Fortune, by her allurements, draws men far from the true good; Ill Fortune ofttimes draws men back to true good with grappling-irons. Again, should it be esteemed a trifling boon, thinkest thou, that this cruel, this odious Fortune hath discovered to thee the hearts of thy faithful friends--that other hid from thee alike the faces of the true friends and of the false, but in departing she hath taken away _her_ friends, and left thee _thine_? What price wouldst thou not have given for this service in the fulness of thy prosperity when thou seemedst to thyself fortunate? Cease, then, to seek the wealth thou hast lost, since in true friends thou hast found the most precious of all riches.'
 
-## Unit 21 — Book II, SONG VIII: LOVE IS LORD OF ALL.
+## Unit 21 — Book II, SONG VIII — LOVE IS LORD OF ALL
 
 > **SONG VIII**
 >
@@ -725,7 +729,7 @@ groupings:
 
 # Chapter 3 — Book III — The Highest Good
 
-## Unit 22 — Book III, I, SONG I: She ceased, but I stood fixed by the sweetness of the song in…
+## Unit 22 — Book III, I, SONG I — Fortune on song
 
 > **I**
 >
@@ -757,7 +761,7 @@ groupings:
 > So drive the false bliss from thy mind,  
 > And thou shall see the true.  
 
-## Unit 23 — Book III, II: For a little space she remained in a fixed gaze, withdrawn, as…
+## Unit 23 — Book III, II — On mind
 
 > **II**
 >
@@ -767,7 +771,7 @@ groupings:
 >
 > 'Thou hast, then, set before thine eyes something like a scheme of human happiness--wealth, rank, power, glory, pleasure. Now Epicurus, from a sole regard to these considerations, with some consistency concluded the highest good to be pleasure, because all the other objects seem to bring some delight to the soul. But to return to human pursuits and aims: man's mind seeks to recover its proper good, in spite of the mistiness of its recollection, but, like a drunken man, knows not by what path to return home. Think you they are wrong who strive to escape want? Nay, truly there is nothing which can so well complete happiness as a state abounding in all good things, needing nothing from outside, but wholly self-sufficing. Do they fall into error who deem that which is best to be also best deserving to receive the homage of reverence? Not at all. That cannot possibly be vile and contemptible, to attain which the endeavours of nearly all mankind are directed. Then, is power not to be reckoned in the category of good? Why, can that which is plainly more efficacious than anything else be esteemed a thing feeble and void of strength? Or is renown to be thought of no account? Nay, it cannot be ignored that the highest renown is constantly associated with the highest excellence. And what need is there to say that happiness is not haunted by care and gloom, nor exposed to trouble and vexation, since that is a condition we ask of the very least of things, from the possession and enjoyment of which we expect delight? So, then, these are the blessings men wish to win; they want riches, rank, sovereignty, glory, pleasure, because they believe that by these means they will secure independence, reverence, power, renown, and joy of heart. Therefore, it is _the good_ which men seek by such divers courses; and herein is easily shown the might of Nature's power, since, although opinions are so various and discordant, yet they agree in cherishing _good_ as the end.'
 
-## Unit 24 — Book III, SONG II: THE BENT OF NATURE.
+## Unit 24 — Book III, SONG II — THE BENT OF NATURE
 
 > **SONG II**
 >
@@ -815,7 +819,7 @@ groupings:
 > Joins the end to the beginning  
 > In a steady cycle spinning.  
 
-## Unit 25 — Book III, III, SONG III: 'Ye, too, creatures of earth, have some glimmering of your origin,
+## Unit 25 — Book III, III, SONG III — On nature, good, and wealth
 
 > **III**
 >
@@ -877,7 +881,7 @@ groupings:
 > And his riches go not with him,  
 > When his eyes are closed in death.  
 
-## Unit 26 — Book III, IV, SONG IV: 'Well, but official dignity clothes him to whom it comes with…
+## Unit 26 — Book III, IV, SONG IV — Catullus on honour
 
 > **IV**
 >
@@ -899,7 +903,7 @@ groupings:
 > Shall we, then, deem them truly blessed  
 > Whom such preferment hath made great?  
 
-## Unit 27 — Book III, V, SONG V: 'Well, then, does sovereignty and the intimacy of kings prove able to
+## Unit 27 — Book III, V, SONG V — Nero and Seneca
 
 > **V**
 >
@@ -923,7 +927,7 @@ groupings:
 > Haunting care and black distress,  
 > In his power, he's powerless.  
 
-## Unit 28 — Book III, VI, SONG VI, VII, SONG VII: 'Again, how misleading, how base, a thing ofttimes is glory! Well does
+## Unit 28 — Book III, VI, SONG VI, VII, SONG VII — Again, how misleading, how base, a thing
 
 > **VI**
 >
@@ -967,7 +971,7 @@ groupings:
 > She flies, but leaves her smart  
 > Deep-rankling in the heart.  
 
-## Unit 29 — Book III, VIII, SONG VIII: 'It is beyond doubt, then, that these paths do not lead to happiness;
+## Unit 29 — Book III, VIII, SONG VIII — On will, money, and giving
 
 > **VIII**
 >
@@ -1007,7 +1011,7 @@ groupings:
 > The false good they have grasped--ah, then too late!--  
 > May they discern the true!  
 
-## Unit 30 — Book III, IX: 'This much may well suffice to set forth the form of false…
+## Unit 30 — Book III, IX — This much may well suffice to set
 
 > **IX**
 >
@@ -1111,7 +1115,7 @@ groupings:
 >
 > [I] The substance of this poem is taken from Plato's 'Timæus,' 29-42. See Jowett, vol. iii., pp. 448-462 (third edition).
 
-## Unit 31 — Book III, X: 'Since now thou hast seen what is the form of the imperfect good, and
+## Unit 31 — Book III, X — On good, nature, and reason
 
 > **X**
 >
@@ -1181,7 +1185,7 @@ groupings:
 >
 > 'Then we can safely conclude, also, that God's essence is seated in absolute good, and nowhere else.'
 
-## Unit 32 — Book III, SONG X: THE TRUE LIGHT.
+## Unit 32 — Book III, SONG X — THE TRUE LIGHT
 
 > **SONG X**
 >
@@ -1213,7 +1217,7 @@ groupings:
 > He who once hath seen _this_ light  
 > Will not call the sunbeam bright.  
 
-## Unit 33 — Book III, XI: 'I quite agree,' said I, 'truly all thy reasonings hold admirably
+## Unit 33 — Book III, XI — I quite agree,' said I, 'truly all
 
 > **XI**
 >
@@ -1281,7 +1285,7 @@ groupings:
 >
 > 'The end and aim of the whole universe. Surely it is that which is desired of all; and, since we have concluded the good to be such, we ought to acknowledge the end and aim of the whole universe to be "the good."'
 
-## Unit 34 — Book III, SONG XI: REMINISCENCE.J
+## Unit 34 — Book III, SONG XI — REMINISCENCE.J
 
 > **SONG XI**
 >
@@ -1309,7 +1313,7 @@ groupings:
 > recollection--is set forth at length by Plato in the 'Meno,' 81-86, and  
 > the 'Phædo,' 72-76. See Jowett, vol. ii., pp. 40-47 and 213-218.  
 
-## Unit 35 — Book III, XII: Then said I: 'With all my heart I agree with Plato; indeed, this…
+## Unit 35 — Book III, XII — Plato on heart
 
 > **XII**
 >
@@ -1397,7 +1401,7 @@ groupings:
 >
 > it rolls the restless orb of the universe, keeping itself motionless the while. And if I have also employed reasonings not drawn from without, but lying within the compass of our subject, there is no cause for thee to marvel, since thou hast learnt on Plato's authority that words ought to be akin to the matter of which they treat.'
 
-## Unit 36 — Book III, SONG XII: ORPHEUS AND EURYDICE.
+## Unit 36 — Book III, SONG XII — ORPHEUS AND EURYDICE
 
 > **SONG XII**
 >
@@ -1504,7 +1508,7 @@ groupings:
 
 # Chapter 4 — Book IV — Providence and Evil
 
-## Unit 37 — Book IV, I, SONG I: Softly and sweetly Philosophy sang these verses to the end without
+## Unit 37 — Book IV, I, SONG I — On Philosophy
 
 > **I**
 >
@@ -1552,7 +1556,7 @@ groupings:
 > Tyrants whom the nations fear  
 > Dwell in hapless exile here.  
 
-## Unit 38 — Book IV, II: Then said I: 'Verily, wondrous great are thy promises; yet I do not
+## Unit 38 — Book IV, II — On good
 
 > **II**
 >
@@ -1654,7 +1658,7 @@ groupings:
 >
 > See Virgil, Æneid,' xii. 764, 745: _cf_. 'Iliad,' xxii. 159-162.
 
-## Unit 39 — Book IV, SONG II: THE BONDAGE OF PASSION.
+## Unit 39 — Book IV, SONG II — THE BONDAGE OF PASSION
 
 > **SONG II**
 >
@@ -1670,7 +1674,7 @@ groupings:
 > Then thou'lt confess: one hapless wretch, whom many lords oppress,  
 > Does never what he would, but lives in thraldom's helplessness.  
 
-## Unit 40 — Book IV, III: 'Thou seest, then, in what foulness unrighteous deeds are sunk, with
+## Unit 40 — Book IV, III — On good
 
 > **III**
 >
@@ -1678,7 +1682,7 @@ groupings:
 >
 > 'See, also, from the opposite standpoint--the standpoint of the good--what a penalty attends upon the wicked. Thou didst learn a little since that whatever is is one, and that unity itself is good. Accordingly, by this way of reckoning, whatever falls away from goodness ceases to be; whence it comes to pass that the bad cease to be what they were, while only the outward aspect is still left to show they have been men. Wherefore, by their perversion to badness, they have lost their true human nature. Further, since righteousness alone can raise men above the level of humanity, it must needs be that unrighteousness degrades below man's level those whom it has cast out of man's estate. It results, then, that thou canst not consider him human whom thou seest transformed by vice. The violent despoiler of other men's goods, enflamed with covetousness, surely resembles a wolf. A bold and restless spirit, ever wrangling in law-courts, is like some yelping cur. The secret schemer, taking pleasure in fraud and stealth, is own brother to the fox. The passionate man, phrenzied with rage, we might believe to be animated with the soul of a lion. The coward and runaway, afraid where no fear is, may be likened to the timid deer. He who is sunk in ignorance and stupidity lives like a dull ass. He who is light and inconstant, never holding long to one thing, is for all the world like a bird. He who wallows in foul and unclean lusts is sunk in the pleasures of a filthy hog. So it comes to pass that he who by forsaking righteousness ceases to be a man cannot pass into a Godlike condition, but actually turns into a brute beast.'
 
-## Unit 41 — Book IV, SONG III: CIRCE'S CUP.
+## Unit 41 — Book IV, SONG III — CIRCE'S CUP
 
 > **SONG III**
 >
@@ -1734,7 +1738,7 @@ groupings:
 > And leave the body whole,  
 > But deep infect the soul.  
 
-## Unit 42 — Book IV, IV: Then said I: 'This is very true
+## Unit 42 — Book IV, IV — On nature and good
 
 > **IV**
 >
@@ -1810,7 +1814,7 @@ groupings:
 >
 > 'And yet,' says she, 'the practice of the law-courts is just the opposite: advocates try to arouse the commiseration of the judges for those who have endured some grievous and cruel wrong; whereas pity is rather due to the criminal, who ought to be brought to the judgment-seat by his accusers in a spirit not of anger, but of compassion and kindness, as a sick man to the physician, to have the ulcer of his fault cut away by punishment. Whereby the business of the advocate would either wholly come to a standstill, or, did men prefer to make it serviceable to mankind, would be restricted to the practice of accusation. The wicked themselves also, if through some chink or cranny they were permitted to behold the virtue they have forsaken, and were to see that by the pains of punishment they would rid themselves of the uncleanness of their vices, and win in exchange the recompense of righteousness, they would no longer think these sufferings pains; they would refuse the help of advocates, and would commit themselves wholly into the hands of their accusers and judges. Whence it comes to pass that for the wise no place is left for hatred; only the most foolish would hate the good, and to hate the bad is unreasonable. For if vicious propensity is, as it were, a disease of the soul like bodily sickness, even as we account the sick in body by no means deserving of hate, but rather of pity, so, and much more, should they be pitied whose minds are assailed by wickedness, which is more frightful than any sickness.'
 
-## Unit 43 — Book IV, SONG IV, V, SONG V: On this I said: 'I see how there is a happiness and misery founded on
+## Unit 43 — Book IV, SONG IV, V, SONG V — On death, will, and reason
 
 > **SONG IV**
 >
@@ -1865,7 +1869,7 @@ groupings:
 > [M] To frighten away the monster swallowing the moon. The superstition  
 > was once common. See Tylor's 'Primitive Culture,' pp. 296-302.  
 
-## Unit 44 — Book IV, VI: 'True,' said I; 'but, since it is thy office to unfold the…
+## Unit 44 — Book IV, VI — On mind
 
 > **VI**
 >
@@ -1905,7 +1909,7 @@ groupings:
 >
 > [N] Parmenides. Boethius seems to forget for the moment that Philosophy is speaking.
 
-## Unit 45 — Book IV, SONG VI: THE UNIVERSAL AIM.
+## Unit 45 — Book IV, SONG VI — THE UNIVERSAL AIM
 
 > **SONG VI**
 >
@@ -1971,7 +1975,7 @@ groupings:
 > To that Source to flow again  
 > Whence its being first was ta'en.  
 
-## Unit 46 — Book IV, VII: 'Dost thou, then, see the consequence of all that we have said?'
+## Unit 46 — Book IV, VII — Dost thou, then, see the consequence
 
 > **VII**
 >
@@ -2029,7 +2033,7 @@ groupings:
 >
 > 'Wherefore,' said she, 'the wise man ought not to take it ill, if ever he is involved in one of fortune's conflicts, any more than it becomes a brave soldier to be offended when at any time the trumpet sounds for battle. The time of trial is the express opportunity for the one to win glory, for the other to perfect his wisdom. Hence, indeed, virtue gets its name, because, relying on its own efficacy, it yieldeth not to adversity. And ye who have taken your stand on virtue's steep ascent, it is not for you to be dissolved in delights or enfeebled by pleasure; ye close in conflict--yea, in conflict most sharp--with all fortune's vicissitudes, lest ye suffer foul fortune to overwhelm or fair fortune to corrupt you. Hold the mean with all your strength. Whatever falls short of this, or goes beyond, is fraught with scorn of happiness, and misses the reward of toil. It rests with you to make your fortune what you will. Verily, every harsh-seeming fortune, unless it either disciplines or amends, is punishment.'
 
-## Unit 47 — Book IV, SONG VII: THE HERO'S PATH.
+## Unit 47 — Book IV, SONG VII — THE HERO'S PATH
 
 > **SONG VII**
 >
@@ -2117,7 +2121,7 @@ groupings:
 
 # Chapter 5 — Book V — Providence and Free Will
 
-## Unit 48 — Book V, I: She ceased, and was about to pass on in her discourse to the…
+## Unit 48 — Book V, I — On providence
 
 > **I**
 >
@@ -2137,7 +2141,7 @@ groupings:
 >
 > 'Thus,' says she: 'Whenever something is done for the sake of a particular end, and for certain reasons some other result than that designed ensues, this is called chance; for instance, if a man is digging the earth for tillage, and finds a mass of buried gold. Now, such a find is regarded as accidental; yet it is not "ex nihilo," for it has its proper causes, the unforeseen and unexpected concurrence of which has brought the chance about. For had not the cultivator been digging, had not the man who hid the money buried it in that precise spot, the gold would not have been found. These, then, are the reasons why the find is a chance one, in that it results from causes which met together and concurred, not from any intention on the part of the discoverer. Since neither he who buried the gold nor he who worked in the field _intended_ that the money should be found, but, as I said, it _happened_ by coincidence that one dug where the other buried the treasure. We may, then, define chance as being an unexpected result flowing from a concurrence of causes where the several factors had some definite end. But the meeting and concurrence of these causes arises from that inevitable chain of order which, flowing from the fountain-head of Providence, disposes all things in their due time and place.'
 
-## Unit 49 — Book V, SONG I, II, SONG II: 'I am following needfully,' said I, 'and I agree that it is as thou
+## Unit 49 — Book V, SONG I, II, SONG II — CHANCE
 
 > **SONG I**
 >
@@ -2200,7 +2204,7 @@ groupings:
 > All the world survey--no, none!  
 > _Him_, then, truly name the Sun.  
 
-## Unit 50 — Book V, III: Then said I: 'But now I am once more perplexed by a problem yet more
+## Unit 50 — Book V, III — Then said I: 'But now I am
 
 > **III**
 >
@@ -2222,7 +2226,7 @@ groupings:
 >
 > [P] _I.e._, the necessity of the truth of the statement from the fact.
 
-## Unit 51 — Book V, SONG III: TRUTH'S PARADOXES.
+## Unit 51 — Book V, SONG III — TRUTH'S PARADOXES
 
 > **SONG III**
 >
@@ -2266,7 +2270,7 @@ groupings:
 > FOOTNOTES:  
 > [Q] Compare Plato, 'Meno,' 80; Jowett, vol. ii., pp. 39, 40.  
 
-## Unit 52 — Book V, IV: Then said she: 'This debate about providence is an old one, and is
+## Unit 52 — Book V, IV — On providence, reason, and nature
 
 > **IV**
 >
@@ -2282,7 +2286,7 @@ groupings:
 >
 > 'Now, the cause of the mistake is this--that men think that all knowledge is cognized purely by the nature and efficacy of the thing known. Whereas the case is the very reverse: all that is known is grasped not conformably to its own efficacy, but rather conformably to the faculty of the knower. An example will make this clear: the roundness of a body is recognised in one way by sight, in another by touch. Sight looks upon it from a distance as a whole by a simultaneous reflection of rays; touch grasps the roundness piecemeal, by contact and attachment to the surface, and by actual movement round the periphery itself. Man himself, likewise, is viewed in one way by Sense, in another by Imagination, in another way, again, by Thought, in another by pure Intelligence. Sense judges figure clothed in material substance, Imagination figure alone without matter. Thought transcends this again, and by its contemplation of universals considers the type itself which is contained in the individual. The eye of Intelligence is yet more exalted; for overpassing the sphere of the universal, it will behold absolute form itself by the pure force of the mind's vision. Wherein the main point to be considered is this: the higher faculty of comprehension embraces the lower, while the lower cannot rise to the higher. For Sense has no efficacy beyond matter, nor can Imagination behold universal ideas, nor Thought embrace pure form; but Intelligence, looking down, as it were, from its higher standpoint in its intuition of form, discriminates also the several elements which underlie it; but it comprehends them in the same way as it comprehends that form itself, which could be cognized by no other than itself. For it cognizes the universal of Thought, the figure of Imagination, and the matter of Sense, without employing Thought, Imagination, or Sense, but surveying all things, so to speak, under the aspect of pure form by a single flash of intuition. Thought also, in considering the universal, embraces images and sense-impressions without resorting to Imagination or Sense. For it is Thought which has thus defined the universal from its conceptual point of view: "Man is a two-legged animal endowed with reason." This is indeed a universal notion, yet no one is ignorant that the _thing_ is imaginable and presentable to Sense, because Thought considers it not by Imagination or Sense, but by means of rational conception. Imagination, too, though its faculty of viewing and forming representations is founded upon the senses, nevertheless surveys sense-impressions without calling in Sense, not in the way of Sense-perception, but of Imagination. See'st thou, then, how all things in cognizing use rather their own faculty than the faculty of the things which they cognize? Nor is this strange; for since every judgment is the act of the judge, it is necessary that each should accomplish its task by its own, not by another's power.'
 
-## Unit 53 — Book V, SONG IV: A PSYCHOLOGICAL FALLACY.R
+## Unit 53 — Book V, SONG IV — A PSYCHOLOGICAL FALLACY.R
 
 > **SONG IV**
 >
@@ -2336,7 +2340,7 @@ groupings:
 > See Zeller, 'Stoics, Epicureans, and Sceptics,' Reichel's translation,  
 > p. 76.  
 
-## Unit 54 — Book V, V: 'Now, although in the case of bodies endowed with sentiency the
+## Unit 54 — Book V, V — On mind and body
 
 > **V**
 >
@@ -2344,7 +2348,7 @@ groupings:
 >
 > 'In like manner is it that human reason thinks that Divine Intelligence cannot see the future except after the fashion in which its own knowledge is obtained. For thy contention is, if events do not appear to involve certain and necessary issues, they cannot be foreseen as certainly about to come to pass. There is, then, no foreknowledge of such events; or, if we can ever bring ourselves to believe that there is, there can be nothing which does not happen of necessity. If, however, we could have some part in the judgment of the Divine mind, even as we participate in Reason, we should think it perfectly just that human Reason should submit itself to the Divine mind, no less than we judged that Imagination and Sense ought to yield to Reason. Wherefore let us soar, if we can, to the heights of that Supreme Intelligence; for there Reason will see what in itself it cannot look upon; and that is in what way things whose occurrence is not certain may yet be seen in a sure and definite foreknowledge; and that this foreknowledge is not conjecture, but rather knowledge in its supreme simplicity, free of all limits and restrictions.'
 
-## Unit 55 — Book V, SONG V: THE UPWARD LOOK.
+## Unit 55 — Book V, SONG V — THE UPWARD LOOK
 
 > **SONG V**
 >
@@ -2366,7 +2370,7 @@ groupings:
 > Lift thy soul, too, heavenward; haply lest it stain its heavenly worth,  
 > And thine eyes alone look upward, while thy mind cleaves to the earth!  
 
-## Unit 56 — Book V, VI: 'Since, then, as we lately proved, everything that is known is…
+## Unit 56 — Book V, VI — On nature, character, and knowledge
 
 > **VI**
 >

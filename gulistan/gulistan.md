@@ -5,6 +5,10 @@ translator: James Ross
 translation_year: 1823
 license: public domain
 source_url: https://www.gutenberg.org/cache/epub/13060/pg13060.txt
+unit_title_pass: |
+  Story-number-snippet themes replaced with topic noun phrases ("The king who",
+  "On king and benevolence", etc.) in the 2026-05-30 fix pass. Chapter/story-range
+  labels preserved.
 short_units: 67
 medium_units: 8
 long_units: 3
@@ -26,7 +30,7 @@ groupings:
 
 # Chapter 1 — Of the Customs of Kings
 
-## Unit 1 — Of the Customs of Kings, stories I-II: I have heard of a king who made the sign to put a captive to death
+## Unit 1 — Of the Customs of Kings, stories I-II — The king who
 
 > **I**
 >
@@ -38,7 +42,7 @@ groupings:
 >
 > One of the kings of Khorasan saw, in a dream, Sultan Mahmud, the son of Saboktagin, an hundred years after his death, when his body was decayed and fallen into dust, all but his eyes, which as heretofore were moving in their sockets and looking about them. All the learned were at a stand for its interpretation, excepting one dervish, who made his obeisance, and said:--"He is still looking about him, because his kingdom and wealth are possessed by others!--Many are the heroes whom they have buried under ground, of whose existence above it not one vestige is left; and of that old carcase which they committed to the earth, the earth has so consumed it that not one bone is left. Though many ages are gone since Nushirowan was in being, yet in the remembrance of his munificence is his fair renown left. Be generous, O my friend! and avail thyself of life, before they proclaim it as an event that such a person is not left."
 
-## Unit 2 — Of the Customs of Kings, story III: I have heard of a king's son who was short and mean, and his…
+## Unit 2 — Of the Customs of Kings, story III — The king
 
 > **III**
 >
@@ -50,7 +54,7 @@ groupings:
 >
 > They have reported that the enemy's cavalry was immense, and those of the king few in number; a body of them was inclined to fly, when the youth called aloud, and said, "Be resolute, my brave men, that you may not have to wear the apparel of women!" The troops were more courageous on this speech, and attacked altogether. I have heard that on that day they obtained a complete victory over the enemy. The king kissed his face and eyes, and folded him in his arms, and became daily more attached to him, till he declared him heir-apparent to the throne. The brothers bore him a grudge, and put poison into his food. His sister saw this from a window, and closed the shutter; and the boy understood the sign, and withdrew his hand from the dish, and said, "It is hard that the virtuous should perish and that the vicious should occupy their places." Were the homayi, or phoenix, to be extinct in the world, none would take refuge under the shadow of an owl. They informed the father of this event; he sent for the brothers and rebuked them, as they deserved. Then he made a division of his domains, and gave a suitable portion to each, that discontent might cease; but the ferment was increased, as they have said: Ten dervishes can sleep on one rug, but two kings cannot be accommodated in a whole kingdom. When a man after God's heart can eat the moiety of his loaf, the other moiety he will give in alms to the poor. A king may acquire the sovereignty of one climate or empire; and he will in like manner covet the possession of another.
 
-## Unit 3 — Of the Customs of Kings, story IV: A horde of Arab robbers had possessed themselves of the fastness…
+## Unit 3 — Of the Customs of Kings, story IV — On king
 
 > **IV**
 >
@@ -70,7 +74,7 @@ groupings:
 >
 > Two years after this a gang of city vagabonds got about him, and joined in league, till on an opportunity he murdered the vizir and his two sons; and, carrying off an immense booty, he took up the station of his father in the den of thieves, and became a hardened villain. The king was apprised of this event; and, seizing the hand of amazement with the teeth of regret, said:--"How can any person manufacture a tempered sabre from base iron; nor can a base-born man, O wiseacre, be made a gentleman by any education! Rain, in the purity of whose nature there is no anomaly, cherishes the tulip in the garden and common weed in the salt-marsh. Waste not thy labor in scattered seed upon a briny soil, for it can never be made to yield spikenard; to confer a favor on the wicked is of a like import, as if thou didst an injury to the good."
 
-## Unit 4 — Of the Customs of Kings, story V: At the gate of Oghlamish Patan, King of Delhi, I (namely Sa'di)…
+## Unit 4 — Of the Customs of Kings, story V — On king, wisdom, and good
 
 > **V**
 >
@@ -80,7 +84,7 @@ groupings:
 >
 > The king asked, saying, "Why do they show such a disinclination to do you justice?" He replied: "Under the shadow of his majesty's good fortune I have pleased everybody, excepting the envious man, who is not to be satisfied but with a decline of my success; and let the prosperity and dominion of my lord the king be perpetual!" I can so manage as to give umbrage to no man's heart; but what can I do with the envious man, who harbors within himself the cause of his own chagrin? Die, O ye envious, that ye may get a deliverance; for this is such an evil that you can get rid of it only by death. Men soured by misfortune anxiously desire that the state and fortune of the prosperous may decline; if the eye of the bat is not suited for seeing by day, how can the fountain of the sun be to blame? Dost thou require the truth? It were better a thousand such eyes should suffer, rather than that the light of the sun were obscured.
 
-## Unit 5 — Of the Customs of Kings, stories VI-VIII: They tell a story of a Persian king who had stretched forth the…
+## Unit 5 — Of the Customs of Kings, stories VI-VIII — On king and state
 
 > **VI**
 >
@@ -96,7 +100,7 @@ groupings:
 >
 > They asked Hormuz, son of Nushirowan, "What fault did you find with your father's ministers that you ordered them into confinement?" He replied: "I saw no fault that might deserve imprisonment; yet I perceived that any reverence for me makes a slight impression on their minds, and that they put no implicit reliance on my promise. I feared lest from an apprehension of their own safety they might conspire my ruin; therefore, put in practice that maxim of philosophers who have told us: 'Stand in awe, O wise man, of him who stands in awe of thee, notwithstanding thou canst cope with a hundred such as he. Therefore will the snake bite the herdsman's foot, because it fears that he will bruise its head with a stone. Seest thou not that now that the cat is desperate it will tear out the tiger's eyes with its claws.'"
 
-## Unit 6 — Of the Customs of Kings, stories IX-XII: In his old age an Arab king was grievously sick, and had no…
+## Unit 6 — Of the Customs of Kings, stories IX-XII — On king, good, and fortune
 
 > **IX**
 >
@@ -114,7 +118,7 @@ groupings:
 >
 > An unjust king asked a holy man, saying, "What is more excellent than prayers?" He answered: "For you to remain asleep till mid-day, that for this one interval you might not afflict mankind."--I saw a tyrant lying dormant at noon, and said, "This is mischief, and is best lulled to sleep. It were better that such a reprobate were dead whose state of sleep is preferable to his being awake."
 
-## Unit 7 — Of the Customs of Kings, story XIII: I have heard of a king who had turned night into day in the…
+## Unit 7 — Of the Customs of Kings, story XIII — The king who
 
 > **XIII**
 >
@@ -124,7 +128,7 @@ groupings:
 >
 > One of his discreet ministers said: "O king, it were expedient to supply such people with their means of subsistence by instalments, that they may not squander their absolute necessaries; but, with respect to what your majesty commanded as to coercion and prohibition, though it be correct, a party might impute it to parsimony. Nor does it moreover accord with the principles of the generous to encourage a man to hope for kindness and then overwhelm him with heartbreaking distrust:--Thou must not open upon thyself the door of covetousness; and when opened, thou must not shut it with harshness.--Nobody will see the thirsty pilgrims crowding towards the shore of the briny ocean; but men, birds, and reptiles will flock together wherever they can meet a fresh water fountain."
 
-## Unit 8 — Of the Customs of Kings, stories XIV-XV: One of the ancient kings was easy with the yeomanry in…
+## Unit 8 — Of the Customs of Kings, stories XIV-XV — On king and will
 
 > **XIV**
 >
@@ -138,7 +142,7 @@ groupings:
 >
 > A Tamsil, or application in point.--They asked a Siyah-gosh, or lion-provider, "Why do you choose the service of the lion?" He answered: "Because I subsist on the leavings of his prey, and am secure from the ill-will of my enemies under the asylum of his valor." They said: "Now you have got within the shadow of his protection and admit a grateful sense of his bounty, why do you not approach more closely, that he may include you within the circle of select courtiers and number you among his chosen servants?" He replied, "I should not thus be safe from his violence."--Though a Guebre may keep his fire alight for a hundred years, if he fall once within its flame it will burn him.--_Procul à Jove, procul à fulmine_. It on one occasion may chance that the courtier of the king's presence shall pick up a purse of gold, and the next that he shall lie shorter by the head. And philosophers have remarked, saying, "It is incumbent on us to be constantly aware of the fickle dispositions of kings, who will one moment take offence at a salutation, and at another make an honorary dress the return for an act of rudeness; and they have said, That to be over much facetious is the accomplishment of courtiers and blemish of the wise.--Be wary, and preserve the state of thine own character, and leave sport and buffoonery to jesters and courtiers."
 
-## Unit 9 — Of the Customs of Kings, story XVI: One of my associates brought me a complaint of his perverse…
+## Unit 9 — Of the Customs of Kings, story XVI — On fortune, family, and poverty
 
 > **XVI**
 >
@@ -156,7 +160,7 @@ groupings:
 >
 > At that juncture I happened to accompany a party of friends on a journey to Hijaz, or Arabia Petraea. On my return from the pilgrimage to Mecca, he came out two stages to meet me. I perceived that his outward plight was wretched, and his garb that of dervishes. I asked, "How is this?" He replied, "Just as you said, a faction bore me a grudge and charged me with malpractices; and the king, be his reign eternal, would not investigate the truth of that charge, and my old and best friends stood aloof from my defence, and overlooked my claims on our former acquaintance.--When, through an act of God, a man has fallen, the whole world will put their feet upon his neck; when they see that fortune has taken him by the hand, they will put their hands upon their breasts, and be loud in his praise.--In short, I underwent all manner of persecution till within this week, that the tidings of the safe return of the pilgrims reached us, when I got a release from my heavy durance and a confiscation of my hereditary tenements." I said, "At that time you did not listen to my admonition, when I warned you that the service of princes is, like a voyage at sea, profitable but hazardous: you either get a treasure or perish miserably.--The merchant gains the shore with gold in both his hands, or a wave will one day leave him dead on its beach."--Not deeming it generous any further to irritate a poor man's wound with the asperity of reproach, or to sprinkle his sore with the salt of harsh words, I made a summary conclusion in these two verses, and said:--"Wert thou not aware that thou shouldst find fetters on thy feet when thou wouldst not listen to the generous man's counsel? Thrust not again thy finger into a scorpion's hole till thou canst endure the pain of its sting."
 
-## Unit 10 — Of the Customs of Kings, stories XVII-XVIII: I was the companion of a holy fraternity, whose manners were…
+## Unit 10 — Of the Customs of Kings, stories XVII-XVIII — On opinion, character, and good
 
 > **XVII**
 >
@@ -174,7 +178,7 @@ groupings:
 >
 > The prince turned his face aside from this speech, so contrary to his own lofty sentiments, and harshly reprimanded him, saying, "A great and glorious God made me sovereign of this property, that I might enjoy and spend it; and posted me not a sentinel, to hoard and watch over it.--Carown perished, who possessed forty magazines of treasure; Nushirowan died not, who left behind him a fair reputation."
 
-## Unit 11 — Of the Customs of Kings, stories XIX-XXI: They have related that at a hunting seat they were roasting some…
+## Unit 11 — Of the Customs of Kings, stories XIX-XXI — On world
 
 > **XIX**
 >
@@ -196,13 +200,13 @@ groupings:
 >
 > * * * * *
 
-## Unit 12 — Of the Customs of Kings, story XXIII: One of King Umraw-layas's slaves had absconded, and people that…
+## Unit 12 — Of the Customs of Kings, story XXIII — On king and death
 
 > **XXIII**
 >
 > One of King Umraw-layas's slaves had absconded, and people that went after him brought him back. The vizir, who had a dislike to him, used his interest to have him put to death, that the other slaves (as he pretended) might not commit the same offence. The poor slave fell at Umraw-layas's feet, and said: "Whatever may befall me, if thou approve of it, it is so far proper. What plea can a vassal offer against his lord and master's decree?--Nevertheless, inasmuch as I am the nurtured gift of this house, I could not wish that on the last day's reckoning my blood should stand charged to your account. If, at all events, you are resolved to put this your slave to death, let it be done with a plea of legality, that you may not be censured at the day of resurrection." The king asked, "How can I set up a legal plea?" He replied, "Issue your command that I may kill the vizir, then give an order to put me to death in retaliation for him, that you may kill me according to law!" The king smiled and asked the vizir, "What is your advice in this case?" The vizir said, "O sovereign of the world! I beg, for the sake of God, that you will manumit this audacious fellow as a propitiation at the tomb of your forefathers, lest he also involve me in calamity. The fault was on my side, in not doing justice to the saying of the wise, who have warned us:--'When thou didst enter the lists with a practised slinger, in thy want of skill thou exposest thine own head to be broken. When thou didst discharge thine arrow at thy antagonist's face thou shouldst have been upon thy guard, for thou hadst become his butt.'"
 
-## Unit 13 — Of the Customs of Kings, story XXIV: King Zuzan had a minister of a generous spirit and kindly…
+## Unit 13 — Of the Customs of Kings, story XXIV — On king and benevolence
 
 > **XXIV**
 >
@@ -210,7 +214,7 @@ groupings:
 >
 > Of the charge against him at the king's exchequer, part had been adjusted according to its settlement, and he remained in durance for the balance. A bordering prince sent him underhand a letter, stating, "The sovereign of that quarter has not appreciated such worth, nay, has dishonored it, and with us it bore a heavy price. If the precious mind of a certain personage, may God facilitate his deliverance, will incline favorably towards us, every possible exertion shall be made to conciliate his good-will, and the cabinet ministers of this kingdom are exulting in the prospect of seeing him, and anxious for the answer of this letter." The minister made himself master of the contents. He pondered on the danger, wrote such a brief answer as seemed discreet upon the back of the letter, and returned it. One of the hangers-on at court had notice of this circumstance. He apprised the king, saying, "A certain person whom you have put in confinement is corresponding with a neighboring prince." The king was wroth, and ordered an investigation of this intelligence. The messenger was seized, and letter read. On the back of it he had written, stating, "The good opinion of his Majesty exceeds the merits of this slave; but the honored approbation he has bestowed upon a servant cannot possibly have his consent, for he is the fostered gift of this house, and he cannot, on a trifling change of affection, betray his ancient benefactor and patron.--Though once in his life he may grate thee with harshness, excuse him who on every occasion else has soothed thee with kindness." The king commended his fidelity, bestowed on him an honorary dress and largess, and made his excuses, saying, "I was to blame, that could do you an injury." He replied, "In this instance, my lord, your servant sees no blame that attaches to you; but such was the ordination of God, whose name was glorified, that this your devoted slave should verily be overtaken with a calamity. Accordingly, it is more tolerable at the hand of you, who possess the rights of past good, and have claims of gratitude on this servant:--Be not offended with mankind should any mischief assail thee, for neither pleasure nor pain originate with thy fellow-being. Know that the contrariety of foe and friend proceeds from God, and that the hearts of both are at his disposal. Though the arrow may seem to issue from the bow, the intelligent can see that the archer gave it its aim."
 
-## Unit 14 — Of the Customs of Kings, stories XXV-XXVI: I have heard that one of the kings of Arabia directed the…
+## Unit 14 — Of the Customs of Kings, stories XXV-XXVI — On will, duty, and good
 
 > **XXV**
 >
@@ -224,7 +228,7 @@ groupings:
 >
 > They have related that these verses were inscribed in golden letters upon Kai-khosráu's crown:--"How many years, and what a continuance of ages, that mankind shall on this earth walk over my head. As the kingdom came to me from hand to hand, so it shall pass into the hands of others."
 
-## Unit 15 — Of the Customs of Kings, story XXVII: A person had become a master in the art of wrestling; he knew…
+## Unit 15 — Of the Customs of Kings, story XXVII — On heart
 
 > **XXVII**
 >
@@ -232,7 +236,7 @@ groupings:
 >
 > In short the youth became such a proficient in the art and talent of wrestling that none of his contemporaries had ability to cope with him, till he at length had one day boasted before the reigning sovereign, saying, "To any superiority my master possesses over me, he is beholden to my reverence of his seniority, and in virtue of his tutorage; otherwise I am not inferior in power, and am his equal in skill." This want of respect displeased the king. He ordered a wrestling match to be held, and a spacious field to be fenced in for the occasion. The ministers of state, nobles of the court, and gallant men of the realm were assembled, and the ceremonials of the combat marshalled. Like a huge and lusty elephant, the youth rushed into the ring with such a crash that had a brazen mountain opposed him he would have moved it from its base. The master being aware that the youth was his superior in strength, engaged him in that strange feat of which he had kept him ignorant. The youth was unacquainted with its guard. Advancing, nevertheless, the master seized him with both hands, and, lifting him bodily from the ground, raised him above his head and flung him on the earth. The crowd set up a shout. The king ordered them to give the master an honorary dress and handsome largess, and the youth he addressed with reproach and asperity, saying, "You played the traitor with your own patron, and failed in your presumption of opposing him." He replied, "O sire! my master did not overcome me by strength and ability, but one cunning trick in the art of wrestling was left which he was reserved in teaching me, and by that little feat had to-day the upper hand of me." The master said, "I reserved myself for such a day as this. As the wise have told us, 'Put it not so much into a friend's power that, if hostilely disposed, he can do you an injury.' Have you not heard what that man said who was treacherously dealt with by his own pupil:--'Either in fact there was no good faith in this world, or nobody has perhaps practised it in our days. No person learned the art of archery from me who did not in the end make me his butt.'"
 
-## Unit 16 — Of the Customs of Kings, stories XXVIII-XXXI: A solitary dervish had taken up his station at the corner of a desert
+## Unit 16 — Of the Customs of Kings, stories XXVIII-XXXI — On dervish, king, and good
 
 > **XXVIII**
 >
@@ -252,7 +256,7 @@ groupings:
 >
 > The cabinet ministers of Nushirowan were debating an important affair of state, and each delivered his opinion according to the best of his judgment. In like manner the king also delivered his sentiments, and Abu-zarchamahr, the prime minister, accorded in opinion with him. The other ministers whispered him, saying, "What did you see superior in the king's opinion that you preferred it to the judgment of so many wise heads?" He replied: "Because the event is doubtful, and the opinion of all rests in the pleasure of the most high God whether it shall be right or wrong. Accordingly it is safer to conform with the judgment of the king, because if that shall prove wrong, our obsequiousness to his will shall secure us from his displeasure.--To sport an opinion contrary to the judgment of the king were to wash our hands in our own blood. Were he verily to say this day is night, it would behoove us to reply: Lo! there are the moon and seven stars."
 
-## Unit 17 — Of the Customs of Kings, stories XXXII-XXXIV: An impostor plaited his hair and spake, saying, I am a…
+## Unit 17 — Of the Customs of Kings, stories XXXII-XXXIV — On king and money
 
 > **XXXII**
 >
@@ -266,7 +270,7 @@ groupings:
 >
 > One of Harun-al-Rashid's children went up to his father in a passion, saying, "A certain officer's son has abused me in my mother's name." Harun asked his ministers, "What ought to be such a person's punishment?" One made a sign to have him put to death; another to have his tongue cut out; and a third, to have him fined and banished. Harun said: "O my child! it were generous to forgive him; but if you have not resolution to do that, do you abuse his mother in return, yet not to such a degree as to exceed the bounds of retaliation, for in that case the injury would be on our part, and the complaint on that of the antagonist.--In the opinion of the prudent he is no hero that can dare to combat a furious elephant; but that man is in truth a hero who, when provoked to anger, will not speak intemperately. A cross-grained fellow abused a certain person; he bore it patiently, and said, O well-disposed man! I am still more wicked than thou art calling me; for I know my defects better than thou canst know them."
 
-## Unit 18 — Of the Customs of Kings, stories XXXV-XXXIX: I was seated in a vessel, along with some persons of…
+## Unit 18 — Of the Customs of Kings, stories XXXV-XXXIX — On will
 
 > **XXXV**
 >
@@ -288,7 +292,7 @@ groupings:
 
 # Chapter 2 — Of the Morals of Dervishes
 
-## Unit 19 — Of the Morals of Dervishes, stories I-IV: A person of distinction asked a parsa, or devout and holy man,…
+## Unit 19 — Of the Morals of Dervishes, stories I-IV — On character, heart, and good
 
 > **I**
 >
@@ -310,7 +314,7 @@ groupings:
 >
 > The loving kindness of the righteous, whether before your face or behind your back, is not such that they will censure you when absent, and offer to die for you when present.--Face to face meek as a lamb, behind your back like a man-devouring wolf. Whoever brings you, and sums up the faults of others, will doubtless expose your defects to them.
 
-## Unit 20 — Of the Morals of Dervishes, story V: Some travelling mendicants had agreed to club in a body and…
+## Unit 20 — Of the Morals of Dervishes, story V — On body, good, and will
 
 > **V**
 >
@@ -322,7 +326,7 @@ groupings:
 >
 > I said: "Let there be thanksgiving to a Deity of majesty and glory that I am not forbid the benefits of dervishes, notwithstanding I am in appearance excluded from their society; and I am instructed by this narration, and others like me may profit by its moral during their remaining lives.--From one indiscreet person in an assembly a host of the prudent may get hurt. If they fill a cistern to the brim with rose-water, and let a dog fall into it, the whole will be contaminated."
 
-## Unit 21 — Of the Morals of Dervishes, stories VI-X: A zahid was the guest of a king
+## Unit 21 — Of the Morals of Dervishes, stories VI-X — On king, opinion, and fear
 
 > **VI**
 >
@@ -342,7 +346,7 @@ groupings:
 >
 > The intoxicating spirit of this discourse ran into my head, and the dregs of the cup still rested in my hand, when a traveller, as passing by, entered the outer circle of the congregation, and its expiring undulation lit upon him. He sent forth such a groan that the others in sympathy with him joined in lamentation, and the rawest of the assembly bubbled in unison. I exclaimed, "Praise be to God! those far off are present in their knowledge, and those near by are distant from their ignorance. If the hearer has not the faculty of comprehending the sermon, expect not the vigor of genius in the preacher. Give a scope to the field of inclination, that the orator may have room to strike the ball of eloquence over it."
 
-## Unit 22 — Of the Morals of Dervishes, stories XI-XV: One night in the desert of Mecca, from an excess of drowsiness,…
+## Unit 22 — Of the Morals of Dervishes, stories XI-XV — On fate and body
 
 > **XI**
 >
@@ -366,7 +370,7 @@ groupings:
 >
 > One of the righteous in a dream saw a king in paradise, and a parsa, or holy man, in hell. He questioned himself, saying, "What is the cause of the exaltation of this, and the degradation of that, for we have fancied their converse?" A voice came from above, answering, "This king is in heaven because of his affection for the holy, and that parsa is in hell because of his connection with the kingly."--What can a coarse frock, rosary, and patched cloak avail? Abstain from such evil works as may defile thee. There is no occasion to put a felt cowl upon thy head. Be a dervish in thy actions, and wear a Tartarian coronet.
 
-## Unit 23 — Of the Morals of Dervishes, stories XVI-XXI: A pedestrian, naked from head to foot, left Cufah with the…
+## Unit 23 — Of the Morals of Dervishes, stories XVI-XXI — On life and freedom
 
 > **XVI**
 >
@@ -394,7 +398,7 @@ groupings:
 >
 > They tell a story of an abid, who in the course of a night would eat ten mans, or pounds, of food, and in his devotions repeat the whole Koran before morning. A good and holy man heard this, and said, "Had he eaten half a loaf of bread, and gone to sleep, he would have done a more meritorious act." Keep thy inside unencumbered with victuals, that the light of good works may shine within thee; but thou art void of wisdom and knowledge, because thou art filled up to the nose with food.
 
-## Unit 24 — Of the Morals of Dervishes, stories XXII-XXV: The divine favor had placed the lamp of grace in the path of a…
+## Unit 24 — Of the Morals of Dervishes, stories XXII-XXV — The divine favor had placed the lamp
 
 > **XXII**
 >
@@ -412,13 +416,13 @@ groupings:
 >
 > On one occasion we had marched, I recollect, all the night along with the caravan, and halted towards morning on the skirts of the wilderness. One mystically distracted, who accompanied us on that journey, set up a loud lamentation at dawn, went a-wandering into the desert, and did not take a moment's rest. Next day I said to him, "What condition was that?" He replied, "I remarked the nightingales that they had come to carol in the groves, the pheasants to prattle on the mountains, the frogs to croak in the pools, and the wild beasts to roar in the forests, and thought with myself, saying, It cannot be generous that all are awake in God's praise and I am wrapt up in the sleep of forgetfulness!--Last night a bird was carolling towards the morning; it stole my patience and reason, my fortitude and understanding. My lamentation had perhaps reached the ear of one of my dearly-beloved friends. He said, 'I did not believe that the singing of a bird could so distract thee!' I answered, This is not the duty of the human species, that the birds are singing God's praise and that I am silent."
 
-## Unit 25 — Of the Morals of Dervishes, story XXVI: Once, on a pilgrimage to Hijaz, I was the fellow-traveller of…
+## Unit 25 — Of the Morals of Dervishes, story XXVI — Once, on a pilgrimage to Hijaz, I
 
 > **XXVI**
 >
 > Once, on a pilgrimage to Hijaz, I was the fellow-traveller of some piously-disposed young men, and on a footing of familiarity and intimacy with them. From time to time we were humming a tune and chanting a spiritual hymn, and an abid, who bore us company, kept disparaging the morals of the dervishes, and was callous to their sufferings, till we reached the palm plantation of the tribe of Hulal, when a boy of a tawny complexion issued from the Arab horde and sung such a plaintive melody as would arrest the bird in its flight through the air. I remarked the abid's camel that it kicked up and pranced, and, throwing the abid, danced into the wilderness. I said: "O reverend Shaikh! that spiritual strain threw a brute into an ecstasy, and it is not in like manner working a change in you!--Knowest thou what that nightingale of the dawn whispered to me? What sort of man art thou, indeed, who art ignorant of love?--The camel is in an ecstasy of delight from the Arab's song. If thou hast no taste to relish this, thou art a cross-grained brute.--Now that the camel is elated with rapture and delight, if a man is insensible to these he is an ass.--_The zephyr, gliding through the verdure on the earth, shakes the twig of the ban-tree, but moves not the solid rock_.--Whatever thou beholdest is loud in extolling him. That heart which has an ear is full of the divine mystery. It is not the nightingale that alone serenades his rose; for every thorn on the rose-bush is a tongue in his or God's praise!"
 
-## Unit 26 — Of the Morals of Dervishes, stories XXVII-XXVIII: A king had reached the end of his days and had no heir to succeed him
+## Unit 26 — Of the Morals of Dervishes, stories XXVII-XXVIII — On king, will, and life
 
 > **XXVII**
 >
@@ -432,7 +436,7 @@ groupings:
 >
 > A person had a friend who was holding the office of king's divan, or prime minister, and it happened that he had not seen him for some time. Somebody remarked, saying, "It is some time since you saw such a gentleman." He answered, "I am no ways anxious about seeing him." One of the divan's people chanced to be present. He asked, "What has happened amiss that you should dislike to visit him?" He replied, "There is no dislike; but my friend, the divan, can be seen at a time when he is out of office, and my idle intrusion might not come amiss." Amidst the state patronage and authority of office they might take umbrage at their acquaintance; but on the day of vexation and loss of place they would impart their mental disquietudes to their friends.
 
-## Unit 27 — Of the Morals of Dervishes, stories XXIX-XXX: Abu-Horairah was making a daily visit to the prophet Mustafa…
+## Unit 27 — Of the Morals of Dervishes, stories XXIX-XXX — Abu-Horairah was making a daily visit
 
 > **XXIX**
 >
@@ -450,7 +454,7 @@ groupings:
 >
 > * * * * *
 
-## Unit 28 — Of the Morals of Dervishes, story XXXIII: One of the holy men of Syria had passed many years of devotion…
+## Unit 28 — Of the Morals of Dervishes, story XXXIII — On king and will
 
 > **XXXIII**
 >
@@ -468,7 +472,7 @@ groupings:
 >
 > The king had the curiosity of making him another visit, and found the hermit much altered from what he first saw of him. His face had become fair and ruddy, and his body plump and jolly; and he was reclining at his ease on cushions of brocade, and had the Houri-like damsel lolling by his side, and the fairy-formed youth holding a fly-flap of peacock's feathers in his hand, and standing by him in attendance. The king congratulated him upon his portly appearance, and they entered together upon a variety of topics, till his majesty concluded by observing, "In this world I have an affection for these two orders of mankind, the learned and the recluse." A philosophic vizir, and man of much worldly experience, happened to be present. He said: "O sire! such is the canon of affection that you should confer a benefit on each. Give money to the learned man, that he may teach others; and give nothing to the hermit, that he may remain an anchorite.--A zahid, or hermit, stands in need of neither diram nor dinar; when an anchorite takes either, look out for another.--Whoever is virtuously disposed, and holds a mystical communication with God, is sufficient of a hermit without requiring the bread of charity, or the crumbs of mendicity. The tapering finger of the lovely, and her soul-deluding ear-lobe, are decoration enough without a turquoise ring or ear-jewel. Tell that piously-disposed and serene-minded dervish that he needs not the bread of consecration or scraping of beggary; tell that handsome and fair-faced matron that she does not require paint, coloring, or jewelry.--When I have of my own, and covet what is another's, if they esteem me not a hermit they treat me as I merit."
 
-## Unit 29 — Of the Morals of Dervishes, stories XXXIV-XXXVII: Conformably with the above apologue, a king had a business of…
+## Unit 29 — Of the Morals of Dervishes, stories XXXIV-XXXVII — On king, will, and mind
 
 > **XXXIV**
 >
@@ -490,7 +494,7 @@ groupings:
 >
 > * * * * *
 
-## Unit 30 — Of the Morals of Dervishes, stories XXXIX-XLII: A drunken fellow had lain down to sleep on the highway, and was…
+## Unit 30 — Of the Morals of Dervishes, stories XXXIX-XLII — A drunken fellow had lain down
 
 > **XXXIX**
 >
@@ -510,7 +514,7 @@ groupings:
 >
 > * * * * *
 
-## Unit 31 — Of the Morals of Dervishes, stories XLIV-XLVIII: A facetious old gentleman of Bagdad gave his daughter in…
+## Unit 31 — Of the Morals of Dervishes, stories XLIV-XLVIII — On marriage, law, and death
 
 > **XLIV**
 >
@@ -530,7 +534,7 @@ groupings:
 
 # Chapter 3 — On the Preciousness of Contentment
 
-## Unit 32 — On the Preciousness of Contentment, stories I-IV: A mendicant from the west of Africa had taken his station amidst…
+## Unit 32 — On the Preciousness of Contentment, stories I-IV — On world, wealth, and wisdom
 
 > **I**
 >
@@ -548,7 +552,7 @@ groupings:
 >
 > One of the Persian kings sent a skilful physician to attend Mohammed Mustafa, on whom be salutation. He remained some years in the territory of the Arabs; but nobody went to try his skill, or asked him for any medicine. One day he presented himself before the blessed prince of prophets, and complained, saying, "The king had sent me to dispense medicine to your companions; but, till this moment, nobody has been so good as to enable me to practise any skill that this your servant may possess." The blessed messenger of God was pleased to answer, saying, "It is a rule with this tribe never to eat till hard pressed by hunger, and to discontinue their repast while they have yet an appetite." The physician said, "This accounts for their health." Then he kissed the earth of respect and took his leave. The physician will then begin to inculcate temperance, or to extend the finger of indulgence, when from silence his patient might suffer by excess, or his life be endangered by abstinence:--of course, the skill of the physician is advice, and the patient's regimen and diet yield the fruits of health!
 
-## Unit 33 — On the Preciousness of Contentment, stories V-VIII: A certain person would be making vows of abstinence and breaking them
+## Unit 33 — On the Preciousness of Contentment, stories V-VIII — On will
 
 > **V**
 >
@@ -566,7 +570,7 @@ groupings:
 >
 > A certain philosopher admonished his son against eating to an excess, because repletion made a man sick. The boy answered, "O father, hunger will kill. Have you not heard what the wits have remarked, To die of a surfeit were better than to bear with a craving appetite?" The father said, "Study moderation, for the Most High God has told us in the Koran:--'_Eat ye and drink ye, but not to an excess_:'--eat not so voraciously that the food shall be regorged from thy mouth, nor so abstemiously that from depletion life shall desert thee:--though food be the means of preserving breath in the body. Yet, if taken to excess, it will prove noxious. If conserve of roses be frequently indulged in it will cause a surfeit, whereas a crust of bread, eaten after a long interval, will relish like conserve of roses."
 
-## Unit 34 — On the Preciousness of Contentment, stories XI-XV: In a battle with the Tartars, a gallant young man was grievously…
+## Unit 34 — On the Preciousness of Contentment, stories XI-XV — On world
 
 > **XI**
 >
@@ -588,7 +592,7 @@ groupings:
 >
 > They asked Hatim Tayi: "Have you ever met, or heard of, a person of a more independent spirit than yourself?" He answered: "Yes, one day I had made a sacrifice of forty camels, and invited the chief of every Arab tribe to a feast. Then I repaired to the border of the desert, where I met a wood-cutter, who had tied up his fagot to carry it into the city. I said, Why do you not go to the feast of Hatim, where a crowd have assembled round his carpet? He replied:--'Whoever can eat the bread of his own industry will not lay himself under obligation to Hatim Tayi.'--And in him I met my superior in spirit and independence."
 
-## Unit 35 — On the Preciousness of Contentment, stories XVI-XVIII: The Prophet Moses, on whom be peace, saw a dervish who had…
+## Unit 35 — On the Preciousness of Contentment, stories XVI-XVIII — On dervish, body, and prayer
 
 > **XVI**
 >
@@ -608,7 +612,7 @@ groupings:
 >
 > In like manner a traveller had got bewildered in the great desert, and had neither provisions nor strength left, yet a few dirams remained with him in his scrip. He kept wandering about, but could not find the path, and sunk under his fatigue. A party of travellers arrived where his body lay; they saw the dirams spread before him, and these verses written in the sand:--"Were he possessed of all the gold of Jafier (a famous gold refiner), a man without food could not satisfy his appetite. To a wretched mendicant, parched in the desert, a boiled turnip would relish better than an ingot of virgin silver."
 
-## Unit 36 — On the Preciousness of Contentment, stories XIX-XXI: I had never complained of the vicissitudes of fortune, nor…
+## Unit 36 — On the Preciousness of Contentment, stories XIX-XXI — On fortune, state, and will
 
 > **XIX**
 >
@@ -622,7 +626,7 @@ groupings:
 >
 > They tell a story of an importunate mendicant who had amassed much riches. A certain king said: "It seems that you possess immense wealth, and I have a business of some consequence in hand. If you will assist me with a little of it, by way of a loan, when the public revenue is realized I will repay it and thank you to the bargain." He replied: "O sire, it would ill become the sublime majesty of the sovereign of the universe to soil the hand of lofty enterprise with the property of such a mendicant as I am, which I have scraped together grain by grain." He said: "There is no occasion to vex yourself, for I mean it for the Tartars, as impurities are suiting for the impure:--_They said, 'The compost of a dunghill is unclean.' We replied, 'That with it we will fill up the chinks of a necessary_.'--If the water of a Christian's well is defiled, and we wash a Jew's corpse in it, there is no sin." I have heard that he disobeyed the royal command, questioned its justice, and resisted it with insolence. The king ordered that the exchequer stipulations should be put in force with rigidness and violence. When a business cannot be settled with fair words, we must of necessity make use of foul. When a man will not contribute of his own free will, if another enforces him he meets his desert.
 
-## Unit 37 — On the Preciousness of Contentment, stories XXII-XXV: I knew a merchant who had a hundred and fifty camels of burden…
+## Unit 37 — On the Preciousness of Contentment, stories XXII-XXV — On mind
 
 > **XXII**
 >
@@ -638,7 +642,7 @@ groupings:
 >
 > A person without hands or feet killed a milleped. A good and holy man passed by him at the time, and said: "Glory be to God! notwithstanding the thousand feet he had when his destiny overtook him, he was unable to escape from one destitute of hand or foot."--When the life-plundering foe comes up behind, fate arrests the speed of the swift-going warrior. At the moment when the enemy might approach step by step it were useless to bend the kayani, or Parthian bow.
 
-## Unit 38 — On the Preciousness of Contentment, stories XXVI-XXIX: I met a fat blockhead decked in rich apparel, and mounted on an…
+## Unit 38 — On the Preciousness of Contentment, stories XXVI-XXIX — On voice
 
 > **XXVI**
 >
@@ -660,7 +664,7 @@ groupings:
 
 # Chapter 4 — On the Benefit of Being Silent
 
-## Unit 39 — On the Benefit of Being Silent, stories I-VII: I spoke to one of my friends, saying: A prudent restraint on my…
+## Unit 39 — On the Benefit of Being Silent, stories I-VII — On friends, good, and will
 
 > **I**
 >
@@ -688,7 +692,7 @@ groupings:
 >
 > I overheard a sage, who was remarking: "Never has anybody acknowledged his own ignorance, excepting that person who, while another may be talking, and has not finished what he has to say, will begin speaking:--A speech, O wiseacre! has a beginning and an end; bring not one speech into the middle of another. A man of judgment, discretion, and prudence, delivers not his speech till he find an interval of silence."
 
-## Unit 40 — On the Benefit of Being Silent, stories VIII-XII: Some of the courtiers of Sultan Mahmud asked Husan Maimandi,…
+## Unit 40 — On the Benefit of Being Silent, stories VIII-XII — Mahmud on sultan
 
 > **VIII**
 >
@@ -710,7 +714,7 @@ groupings:
 >
 > In reverence of his rank his townsmen indulged this defect, and would not distress him by remarking on it, till another preacher of those parts, actuated by a private pique, came on one occasion to tantalize him, and said, "I have seen you in a dream; may it prove fortunate!" He asked: "What have you seen?" He replied: "So it seemed in my vision that your voice had become harmonious, and mankind were charmed with your melodious cadences." For a while the preacher bowed his head in thought, then raised it, and said: "What a fortunate vision is it that you had, that has made me sensible of my weakness! I am now aware that I have an unpleasant voice, and that the people are distressed at my delivery. I have vowed that I will henceforth preach only in a soft tone of voice." I am distressed with the society of friends who extol my vices into virtues, my blemishes they view as excellences and perfections, my thorns they regard as roses and jasmines. Where is that rude and bold rival who will expose all my deformities?
 
-## Unit 41 — On the Benefit of Being Silent, stories XIII-XIV: At a mosque in the city of Sanjar, the capital of Khorasan, a…
+## Unit 41 — On the Benefit of Being Silent, stories XIII-XIV — On giving and will
 
 > **XIII**
 >
@@ -722,7 +726,7 @@ groupings:
 
 # Chapter 5 — On Love and Youth
 
-## Unit 42 — On Love and Youth, stories I-III: They asked Husan Maimandi: How comes it that Sultan Mahmud, who…
+## Unit 42 — On Love and Youth, stories I-III — They and Husan Maimandi
 
 > **I**
 >
@@ -736,7 +740,7 @@ groupings:
 >
 > On one occasion I reproached him, and said: "What is become of your precious reason, that a vile passion should thus master you?" He made a short pause, and replied:--"Wherever the king of love came, he left no room for the strong arm of chastity. How can that wretch live undefiled who has fallen in a quagmire up to the neck?"
 
-## Unit 43 — On Love and Youth, story IV: A certain person had lost his heart and abandoned himself to despair
+## Unit 43 — On Love and Youth, story IV — On heart and despair
 
 > **IV**
 >
@@ -748,7 +752,7 @@ groupings:
 >
 > They informed the princess who was the object of his infatuation, saying: "A youth of an amiable disposition and sweet flow of tongue is frequent in his attendance at the top of this plain; and we hear him delivering brilliant speeches and wonderful sallies of wit; it would seem that he has a mystery in his head and a flame in his heart, for he appears to be distractedly in love." The princess was aware that she had become the object of his attachment, and that this whirlwind of calamity was raised by himself, and spurred her horse toward him. Now that the youth saw that it was the princess' intention to approach him, he wept, and said:--"That personage who inflicted upon me a mortal wound again presented herself before me; perhaps she took compassion upon her own victim." However, kindly she spoke, and asked, saying: "Who are you, and whence come you? what is your name, and what your calling?" the youth was so entirely overwhelmed in the ocean of love and passion that he absolutely could not utter a word:--"Couldst thou in fact repeat the seven Saba, or whole Koran by heart, if distracted with love, thou wouldst forget the alphabet":--the princess continued: "Why do you not answer me? for I too am one of the sect of dervishes, nay, I am their most devoted slave." On the strength of this sympathizing encouragement of his beloved, the youth raised his head amidst the buffeting waves of tempestuous passion, and answered:--"It is strange that with thee present I should remain in existence; that after thou camest to talk, I should have speech left me."--This he said, and, uttering a loud groan, surrendered his soul up to God:--No wonder if he died by the door of his beloved's tent; the wonder was, if alive, how he could have brought his life back in safety.
 
-## Unit 44 — On Love and Youth, stories V-VIII: A boy at school possessed much loveliness of person and…
+## Unit 44 — On Love and Youth, stories V-VIII — On nature and mind
 
 > **V**
 >
@@ -768,13 +772,13 @@ groupings:
 >
 > In former times, I recollect, a friend and I were associating together like two kernels within one almond shell. I happened unexpectedly to go on a journey. After some time, when I was returned, he began to chide me, saying: "During this long interval you never sent me a messenger." I replied: "It vexed me to think that the eyes of a courier should be enlightened by your countenance, whilst I was debarred that happiness:--Tell my old charmer not to impose a vow upon me with her tongue; for I would not repent, were she to attempt it with a sword. Envy stings me to the quick, lest another should be satiated with beholding thee, till I recollect myself, and say: Nobody can have a satiety of that!"
 
-## Unit 45 — On Love and Youth, story IX: I saw a learned gentleman the captive of attachment for a…
+## Unit 45 — On Love and Youth, story IX — On friendship
 
 > **IX**
 >
 > I saw a learned gentleman the captive of attachment for a certain person, and the victim of his reproach; and he would suffer much violence, and bear it with great patience. On one occasion I said, by way of admonition: "I know that in your attachment for this person you have no bad object, and that this friendship rests not on any criminal design; yet, under this interpretation, it accords not with the dignity of the learned to expose yourself to calumny, and put up with the rudeness of the rabble." He replied: "O my friend, withdraw the hand of reproach from the skirt of my fatality, for I have frequently reflected on this advice which you offer me, and find it easier to suffer contumely on his account than to forego his company; and philosophers have said: 'It is less arduous to persist in the labor of courting than to restrain the eye from contemplating a beloved object':--Whoever devotes his heart to a soul deluder puts his beard or reputation into the hands of another. That person, without whom thou canst not exist, if he do thee a violence, thou must bear with it. The antelope, that is led by a string, cannot bound from this side to that. One day I asked a compact of my mistress; how often have I since that day craved her forgiveness! A lover exacts not terms of his charmer; I relinquished my heart to whatever she desired me, whether to call me up to her with kindness, or drive me from her with harshness she knows best, or it is her pleasure."
 
-## Unit 46 — On Love and Youth, story X: In my early youth such an event (as you know) will come to pass
+## Unit 46 — On Love and Youth, story X — On will
 
 > **X**
 >
@@ -786,7 +790,7 @@ groupings:
 >
 > * * * * *
 
-## Unit 47 — On Love and Youth, stories XII-XIII: They shut up a parrot in the same cage with a crow
+## Unit 47 — On Love and Youth, stories XII-XIII — On appearance and world
 
 > **XII**
 >
@@ -800,7 +804,7 @@ groupings:
 >
 > I had an associate, who was for years the companion of my travels, partook of the same bread and salt, and enjoyed the many rights of a confirmed friendship. At last, on some trifling advantage, he gave me cause of umbrage, and our intimacy ceased. And notwithstanding all this, there was a hankering of good-will on both sides; in consequence of which I heard that he was one day reciting in a certain assembly these two couplets of my writings:--"When my idol, or mistress, is approaching me with her tantalizing smiles, she is sprinkling more salt upon my smarting sores. How fortunate were the tips of her ringlets to come into my hand, like the sleeve of the generous in the hands of dervishes." This society of his friends bore testimony, and gave applause, not to the beauty of this sentiment, but to the liberality of his own disposition in quoting it; while he had himself been extravagant in his encomiums, regretted the demise of our former attachment, and confessed how much he was to blame. I was made aware that he too was desirous of a reconciliation; and, having sent him these couplets, made my peace:--"Was there not a treaty of good faith between us, and didst not thou commence hostilities, and violate the compact? I relinquished all manner of society, and plighted my heart to thee; for I did not suspect that thou wouldst have so readily changed. If it still be thy wish to renew our peace, return, and be more dear to me than ever."
 
-## Unit 48 — On Love and Youth, stories XIV-XV: A man had a beautiful wife, who died; but the mother, a decrepit…
+## Unit 48 — On Love and Youth, stories XIV-XV — On death and friends
 
 > **XIV**
 >
@@ -810,7 +814,7 @@ groupings:
 >
 > In my youth I recollect I was passing through a street, and caught a glimpse of a moon-like charmer during the dog-days, when their heat was drying up the moisture of the mouth, and the samurn, or desert hot-wind, melting the marrow of the bones. From the weakness of human nature I was unable to withstand the darting rays of a noon-tide sun, and took refuge under the shadow of a wall, hopeful that somebody would relieve me from the oppressive heat of summer, and quench the fire of my thirst with a draught of water. All at once I beheld a luminary in the shadowed portico of a mansion, so splendid an object that the tongue of eloquence falls short in summing up its loveliness; such as the day dawning upon a dark night, or the fountain of immortality issuing from chaos. She held in her hand a goblet of snow-cooled water, into which she dropped some sugar, and tempered it with spirit of wine; but I know not whether she scented it with attar, or sprinkled it with a few blossoms from her own rosy cheek. In short, I received the beverage from her idol-fair hand; and, having drunk it off, found myself restored to a new life. "_Such is not my parching thirst that it is to be quenched with the limpid element of water, were I to swallow it in oceans_:--Joy to that happy aspect whose eye can every morning contemplate such a countenance as thine. A person intoxicated with wine lies giddy and awake half the night; but if intoxicated with the cup-bearer (God), the day of judgment must be his dawn or morning."
 
-## Unit 49 — On Love and Youth, story XVI: In the year that Sultan Mohammed Khowarazm-Shah had for some…
+## Unit 49 — On Love and Youth, story XVI — On sultan, reason, and king
 
 > **XVI**
 >
@@ -824,7 +828,7 @@ groupings:
 >
 > On the morrow, which had been fixed on as the period of our stay, some of my fellow-travellers had perhaps told him such a one is Sa'di; for I saw that he came running up, and expressed his affection and regret, saying: "Why did you not during all this time tell us that a certain person is Sa'di, that I might have shown my gratitude by offering my service to your reverence." I answered: "In thy presence I cannot even say that I am I!"--He said: "How good it were if you would tarry here for a few days, that we might devote ourselves to your service." I replied: "That cannot be, as this adventure will explain to you:--In the hilly region I saw a great and holy man, who was content in living retired from the world in a cavern. I said: 'Why dost thou not come into the city, that thy heart might be relieved from a load of servitude?' He replied: 'In it there dwell some wonderful and angel-faced charmers, and where the path is miry, elephants may find it slippery.'--Having delivered this speech, we kissed each other's head and face, and took our leaves:--What profits it to kiss our mistress's cheek, and with the same breath to bid her adieu. Thou mightest say that the apple had taken leave of its friends by having this cheek red and that cheek yellow:--_Were I not to die of grief on that day I say farewell, thou wouldst charge me with being insincere in my attachments_."
 
-## Unit 50 — On Love and Youth, story XVII: A ragged dervish accompanied us along with the caravan for…
+## Unit 50 — On Love and Youth, story XVII — On dervish, family, and will
 
 > **XVII**
 >
@@ -846,7 +850,7 @@ groupings:
 >
 > * * * * *
 
-## Unit 51 — On Love and Youth, story XX: There was a handsome and well-disposed young man, who was…
+## Unit 51 — On Love and Youth, story XX — The handsome and
 
 > **XX**
 >
@@ -854,7 +858,7 @@ groupings:
 
 # Chapter 6 — Of Imbecility and Old Age
 
-## Unit 52 — Of Imbecility and Old Age, stories I-III: In the metropolitan mosque at Damascus I was engaged in a…
+## Unit 52 — Of Imbecility and Old Age, stories I-III — On death and will
 
 > **I**
 >
@@ -870,7 +874,7 @@ groupings:
 >
 > In the territory of Diarbekr, or Mesopotamia, I was the guest of an old man, who was very rich, and had a handsome son. One night he told a story, saying: "During my whole life I never had any child but this boy. And in this valley a certain tree is a place of pilgrimage, where people go to supplicate their wants; and many was the night that I have besought God at the foot of that tree before he would bestow upon me this boy." I have heard that the son was also whispering his companions, and saying: "How happy I should be if I could discover the site of that tree, in order that I might pray for the death of my father." The gentleman was rejoicing and saying: "What a sensible youth is my son!" and the boy was complaining and crying: "What a tedious old dotard is my father!" Many years are passing over thy head, during which thou didst not visit thy father's tomb. What pious oblation didst thou make to the manes of a parent that thou shouldst expect so much from thy son?
 
-## Unit 53 — Of Imbecility and Old Age, stories IV-VII: Urged one day by the pride of youthful vanity, I had made a…
+## Unit 53 — Of Imbecility and Old Age, stories IV-VII — On pride
 
 > **IV**
 >
@@ -890,7 +894,7 @@ groupings:
 
 # Chapter 7 — Of the Impressions of Education
 
-## Unit 54 — Of the Impressions of Education, stories I-III: A certain nobleman had a dunce of a son
+## Unit 54 — Of the Impressions of Education, stories I-III — On will, good, and education
 
 > **I**
 >
@@ -906,7 +910,7 @@ groupings:
 >
 > The king greatly approved of this ingenious detail, and the wholesome course of discipline of the learned doctor; and, bestowing upon him a dress and largess, raised him one step in his rank as a nobleman!
 
-## Unit 55 — Of the Impressions of Education, stories IV-VII: In the west of Africa I saw a schoolmaster of a sour aspect and…
+## Unit 55 — Of the Impressions of Education, stories IV-VII — On speech
 
 > **IV**
 >
@@ -924,7 +928,7 @@ groupings:
 >
 > I heard a certain learned senior observing to a disciple:--"If the sons of Adam were as solicitous after Providence, or God, as they are after their means of sustenance, their places in Paradise would surpass those of the angels." God did not overlook thee in that state when thou wert a senseless embryo in thy mother's womb. He bestowed upon thee a soul, reason, temper, intellect, symmetry, speech, judgment, understanding, and reflection. He accommodated thy hands with ten fingers, and suspended two arms from thy shoulders. Canst thou now suppose, O good-for-nothing wretch, that he will forget to provide thy daily bread?
 
-## Unit 56 — Of the Impressions of Education, stories VIII-XV: I observed an Arab who was informing his son:--_O my child, God…
+## Unit 56 — Of the Impressions of Education, stories VIII-XV — On will and life
 
 > **VIII**
 >
@@ -952,7 +956,7 @@ groupings:
 >
 > A fellow had a complaint in his eyes, and went to a horse-doctor, saying: "Prescribe something for me." The doctor of horses applied to his eyes what he was in the habit of applying to the eyes of quadrupeds, and the man got blind. They carried their complaint before the hakim, or judge. He decreed: "This man has no redress, for had he not been an ass he would not have applied to a horse or ass doctor!" The moral of this apologue is, that whoever doth employ an inexperienced person on an affair of importance, besides being brought to shame, he will incur from the wise the imputation of a weak mind. A prudent man, with an enlightened understanding, entrusts not affairs of consequence to one of mean capacity. The plaiter of mats, notwithstanding he be a weaver, they would not employ in a silk manufactory.
 
-## Unit 57 — Of the Impressions of Education, stories XVI-XVII: A certain great Imaam had a worthy son, and he died
+## Unit 57 — Of the Impressions of Education, stories XVI-XVII — On heart
 
 > **XVI**
 >
@@ -962,7 +966,7 @@ groupings:
 >
 > A holy man was passing by a wealthy personage's mansion, and saw him with a slave tied up by the hands and feet, and giving him chastisement. He said: "O my son! God Almighty has made a creature like yourself subject to your command, and has given you a superiority over him. Render thanksgiving to the Most High Judge, and deal not with him so savagely; lest hereafter, on the day of judgment, he may prove the more worthy of the two, and you be put to shame:--Be not so enraged with thy bondsman; torture not his body, nor harrow up his heart. Thou mightest buy him for ten dinars, but hadst not after all the power of creating him:--To what length will this authority, pride, and insolence hurry thee; there is a Master mightier than thou art. Yes, thou art a lord of slaves and vassals, but do not forget thine own Lord Paramount--namely, God!" There is a tradition of the prophet Mohammed, on whom be blessing, announcing:--On the day of resurrection, that will be the most mortifying event when the good slave will be taken up to heaven, and the wicked master sent down to hell:--"Upon the bondsman, who is subservient to thy command, wreak not thy rage and boundless displeasure. For it must be disgraceful on the day of reckoning to find the slave at liberty and the master in bondage."
 
-## Unit 58 — Of the Impressions of Education, stories XVIII-XIX: One year I was on a journey with some Syrians from Balkh, and…
+## Unit 58 — Of the Impressions of Education, stories XVIII-XIX — On world
 
 > **XVIII**
 >
@@ -978,7 +982,7 @@ groupings:
 >
 > * * * * *
 
-## Unit 59 — Of the Impressions of Education, story XXI: I saw a certain person in the garb of dervishes, but not with…
+## Unit 59 — Of the Impressions of Education, story XXI — On money
 
 > **XXI**
 >
@@ -1008,7 +1012,7 @@ groupings:
 
 # Chapter 8 — Of the Duties of Society
 
-## Unit 60 — Of the Duties of Society, stories I-IX: Riches are intended for the comfort of life, and not life for…
+## Unit 60 — Of the Duties of Society, stories I-IX — On life and good
 
 > **I**
 >
@@ -1048,7 +1052,7 @@ groupings:
 >
 > No reliance can be placed on the friendship of kings, nor vain hope put in the melodious voice of boys; for that passes away like a vision, and this vanishes like a dream:--Bestow not thy affections upon a mistress who has a thousand lovers; or, if thou bestowest them upon her, be prepared for a separation.
 
-## Unit 61 — Of the Duties of Society, stories X-XX: Reveal not every secret you have to a friend, for how can you…
+## Unit 61 — Of the Duties of Society, stories X-XX — On silence and mind
 
 > **X**
 >
@@ -1088,7 +1092,7 @@ groupings:
 >
 > Two orders of mankind are the enemies of church and state: the king without clemency, and the holy man without learning:--Let not that prince have rule over the state who is not himself obedient to the will of God.
 
-## Unit 62 — Of the Duties of Society, stories XXI-XXXII: It behooves a king so to regulate his anger towards his enemies…
+## Unit 62 — Of the Duties of Society, stories XXI-XXXII — On king, anger, and friends
 
 > **XXI**
 >
@@ -1130,7 +1134,7 @@ groupings:
 >
 > Ten people will partake of the same joint of meat, and two dogs will snarl over a whole carcase. The greedy man is incontinent with a whole world set before him; the temperate man is content with his crust of bread:--A loaf of brown bread may fill an empty stomach, but the produce of the whole globe cannot satisfy a greedy eye:--My father, when the sun of his life was going down, gave me this sage advice, and it set for good, saying: "Lust is a fire; refrain from indulging it, and do not involve thyself in the flames of hell. Since thou hast not the strength of burning in those flames (as a punishment in the next world), pour in this world the water of continence upon this fire--namely, lust."
 
-## Unit 63 — Of the Duties of Society, stories XXXIII-XLVI: Whoever does not do good, when he has the means of doing it,…
+## Unit 63 — Of the Duties of Society, stories XXXIII-XLVI — On good and will
 
 > **XXXIII**
 >
@@ -1176,7 +1180,7 @@ groupings:
 >
 > It is not every man that has a handsome physical exterior that has a good moral character; for the faculty of business or virtue resides in the heart and not in the skin. Thou canst in one day ascertain the intellectual faculties of a man, and what proficiency he has made in his degrees of knowledge; but be not secure of his mind, nor foolishly sure, for it may take years to detect the innate baseness of the heart.
 
-## Unit 64 — Of the Duties of Society, stories XLVII-LXI: Whoever contends with the great sheds his own blood:--Thou…
+## Unit 64 — Of the Duties of Society, stories XLVII-LXI — Whoever contends with the great sheds
 
 > **XLVII**
 >
@@ -1228,7 +1232,7 @@ groupings:
 >
 > That is musk which discloses itself by its smell, and not what the perfumers impose upon us:--If a man be expert in any art he needs not tell it, for his own skill will show it.
 
-## Unit 65 — Of the Duties of Society, stories LXII-LXXVIII: A wise man is, like a vase in a druggist's shop, silent, but…
+## Unit 65 — Of the Duties of Society, stories LXII-LXXVIII — A wise man is, like a vase
 
 > **LXII**
 >
@@ -1282,7 +1286,7 @@ groupings:
 >
 > * * * * *
 
-## Unit 66 — Of the Duties of Society, stories LXXXI-LXXXVI: The envious man is niggard of the gifts of Providence, and an…
+## Unit 66 — Of the Duties of Society, stories LXXXI-LXXXVI — On providence and will
 
 > **LXXXI**
 >
@@ -1310,7 +1314,7 @@ groupings:
 >
 > * * * * *
 
-## Unit 67 — Of the Duties of Society, story LXXXIX: Though a dress presented by the sovereign be honorable, yet is…
+## Unit 67 — Of the Duties of Society, story LXXXIX — Though a dress presented by the sovereign
 
 > **LXXXIX**
 >

@@ -5,6 +5,8 @@ translator: James Legge
 translation_year: 1861
 license: public domain
 source_url: https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Great_Learning
+source_url_dom: https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/The_Doctrine_of_the_Mean
+source_note: Two-text entry; Great Learning and Doctrine of the Mean are fetched from separate Wikisource pages within *The Chinese Classics, Volume 1* (Legge, 1861). Not on Project Gutenberg — PG #4094 ("Chinese Classics Vol 1") despite the title-page claim contains only the Analects.
 short_units: 28
 medium_units: 8
 long_units: 2

@@ -1,21 +1,30 @@
 ---
 title: The Thirty-Six Stratagems
 author: Anonymous (Ming-Qing compilation; chengyu drawn from much older sources)
-translator: Marginalia editors (paraphrased from the public-domain Classical Chinese chengyu)
-translation_year: 2026
-license: original chengyu in Classical Chinese are public domain; English titles and glosses composed for Marginalia
+translator: ~  # No PD English translation exists — this entry is a derivative work; see license note.
+translation_year: ~
+derivative_work: true
+license: |
+  Derivative work, not a translation. The original Classical Chinese chengyu (titles)
+  and the surviving brief I Ching-style commentaries are public domain. The English
+  titles below use the most-common English renderings of each chengyu, and the brief
+  explanatory glosses are original English prose composed for Marginalia. All extant
+  scholarly English translations (Verstappen, Senger, Sawyer, Moriya/Wilson) remain
+  in copyright and were not used or copied. Original gloss prose is released CC0.
 source_url: https://en.wikisource.org/wiki/zh:%E4%B8%89%E5%8D%81%E5%85%AD%E8%A8%88
 short_units: 36
 medium_units: 6
 long_units: 2
 notes: |
-  The Thirty-Six Stratagems (三十六計, Sānshíliù Jì) is a Chinese strategic compendium of
-  uncertain origin. The phrase first appears in the sixth-century Book of Qi; the surviving
-  text of 36 four-character chengyu organised into six chapters was compiled later (late
-  Ming or early Qing) and rediscovered in Shaanxi in 1941. The Chinese chengyu and the
-  brief commentaries (drawing on the I Ching) are public domain. No single English
-  translation has become canonical; the titles below use the most-common English renderings
-  and the glosses are brief original explanations composed for Marginalia.
+  The Thirty-Six Stratagems (三十六計, Sānshíliù Jì) is a Chinese strategic compendium
+  of uncertain origin. The phrase first appears in the sixth-century Book of Qi; the
+  surviving text of 36 four-character chengyu organised into six chapters was compiled
+  later (late Ming or early Qing) and rediscovered in Shaanxi in 1941. The Chinese
+  chengyu and the brief commentaries (drawing on the I Ching) are public domain. No
+  single English translation has become canonical and all extant scholarly English
+  translations are in copyright; the titles below use the most-common English renderings
+  and the glosses are brief original explanations composed for Marginalia. This is
+  therefore a derivative work rather than a translation — flag for any future audit.
 groupings:
   medium:
     - {units: [1, 2, 3, 4, 5, 6], title: "Chapter 1 — Winning stratagems (勝戰計)"}
